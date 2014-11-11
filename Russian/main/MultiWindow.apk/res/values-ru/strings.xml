@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Добро пожаловать!</string>
+    <string name="app_name">Многооконность</string>
+    <string name="app_browser_title">Многооконность</string>
+    <string name="close">Закрыть</string>
+    <string name="app_max_prompt">Поддерживается одновременное отображение только двух окон miniWin</string>
+    <string name="app_replace_prompt">Достигнуто максимальное количество окон; активное приложение заменено</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="empty">Приложение не добавлено. Нажмите кнопку Добавить.</string>
+    <string name="dialog_empty">Приложение не добавлено. Для добавления приложения перейдите к параметрам.</string>
+    <string name="prompt">Можно добавить не более восьми приложений</string>
+    <string name="count_text">Допускается добавление не более восьми приложений; добавлено приложение %1$d.</string>
+    <string name="rotation_blocked">" запретить поворот экрана!"</string>
+    <string name="disallow_launch_app">" не может выполняться на текущем экране!"</string>
+    <string name="help_close">Понятно</string>
+    <string name="multi_window_opened">Многооконный режим включен</string>
+    <string name="multi_window_closed">Многооконный режим отключен</string>
+</resources>
