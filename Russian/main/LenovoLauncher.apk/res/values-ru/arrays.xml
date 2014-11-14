@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="city_oper_items">
+        <item>Установить как город по-умолчанию</item>
+        <item>Удалить город</item>
+    </string-array>
     <string-array name="previewname">
         <item>блок.экран</item>
         <item>лаунчер</item>
