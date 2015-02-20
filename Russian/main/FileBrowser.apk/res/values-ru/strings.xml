@@ -185,10 +185,10 @@
     <string name="netdisk_file_num_uploading_success">Успешно передано файлов: %1$d</string>
     <string name="netdisk_file_download_all_done">Все загрузки завершены</string>
     <string name="netdisk_file_upload_all_done">Все передачи завершены</string>
-
-
-
-
+    <string name="netdisk_welcome_page_btn_ok">Принять</string>
+    <string name="netdisk_cmcc_alert_title">Сетевое предупреждение</string>
+    <string name="netdisk_cmcc_alert_tip">При использовании сетевого накопителя, расходуется большое количество интернет трафика.Рекомендуется использовать сетевой накопитель только при достаточно количестве трафика или при Wi-Fi подключении.</string>
+    <string name="netdisk_cmcc_alert_dont_show_again">Не напоминать</string>
     <string name="app_name">Проводник</string>
     <string name="File_send">Передать</string>
     <string name="File_copy">Копировать</string>

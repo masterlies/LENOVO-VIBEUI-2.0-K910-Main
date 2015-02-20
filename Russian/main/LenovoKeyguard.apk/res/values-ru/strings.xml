@@ -321,8 +321,8 @@
     <string name="keyguard_password_pin_failed">Ошибка операции с PIN!</string>
     <string name="keyguard_password_puk_failed">Ошибка операции с PUK!</string>
     <string name="keyguard_pin_accepted">Код принят!</string>
-
-
+    <string name="pinpuk_attempts">"
+Осталось попыток :"</string>
     <string name="lockscreen_sim_error_message_short">Карта недействительна.</string>
     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
     <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
@@ -452,5 +452,6 @@
     <string name="keyguard_transport_stop_description">Кнопка выключения</string>
     <string name="keyguard_carrier_default">Нет сигнала.</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">SIM %d : %s</string>
+
     <string name="kg_password_wrong_pin_code">Неверный SIM PIN код</string>
 </resources>

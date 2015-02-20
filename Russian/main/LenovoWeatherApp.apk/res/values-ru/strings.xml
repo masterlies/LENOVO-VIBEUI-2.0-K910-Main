@@ -105,5 +105,24 @@
     <string name="cityitem_oper_def">Установить по умолчанию</string>
     <string name="cityitem_oper_del">Удалить</string>
     <string name="addCityStr">Добавить</string>
+
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="cvaa_widget_clock_area">Часы</string>
+    <string name="cvaa_widget_calendar_area">Календарь</string>
+    <string name="cvaa_widget_weather_area">Погода Lenovo</string>
+    <string name="cvaa_celsius_degree">Цельсий</string>
+    <string name="cvaa_fahrenheit_degree">Фаренгейт</string>
+    <string name="cvaa_turn_celsius_degree">Переключить на цельсий</string>
+    <string name="cvaa_turn_fahrenheit_degree">Переключить на фаренгейт</string>
+    <string name="cvaa_main_addcity_btn">Меню</string>
+    <string name="cvaa_logo_sina">Данные из sina</string>
+    <string name="cvaa_logo_accuweather">Данные из accuweather</string>
+    <string name="cvaa_city_del_succ">город %1$s удалён</string>
+    <string name="cvaa_btn_addcity">Добавить</string>
+    <string name="cvaa_show_det">Показать подробности</string>
+    <string name="cvaa_close_det">Скрыть подробности</string>
+    <string name="cvaa_temp_to">для</string>
+    <string name="cvaa_search_success">Поиск завершился успешно</string>
+    <string name="cvaa_dialog_alert">предупреждение</string>
     <string name="locationCityHint">Настоятельно рекомендуется использовать функцию определения местоположения вместо ручного поиска города. Включить геолокацию?</string>
 </resources>

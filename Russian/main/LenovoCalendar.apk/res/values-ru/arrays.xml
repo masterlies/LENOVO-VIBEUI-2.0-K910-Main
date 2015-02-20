@@ -205,7 +205,7 @@
         <item>За 1 месяц</item>
     </string-array>
     <string-array name="preferences_splash_pic_labels">
-        <item>Только загружать и отображать в среде WLAN</item>
+        <item>Загружать и отображать при подключении Wi-Fi</item>
         <item>Не загружать и не отображать</item>
     </string-array>
     <string-array name="quick_response_defaults">

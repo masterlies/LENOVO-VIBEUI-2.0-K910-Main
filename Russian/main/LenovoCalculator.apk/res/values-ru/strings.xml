@@ -6,7 +6,7 @@
     <string name="clear_history">Очистить журнал</string>
     <string name="copy">Копировать</string>
     <string name="paste">Вставить</string>
-    <string name="only_digit">Можно только вставить номера</string>
+    <string name="only_digit">Можно вставить только номера</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>

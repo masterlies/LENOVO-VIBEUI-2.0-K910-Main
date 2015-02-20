@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+
+
+
+
     <string name="phone_recorder">Запись</string>
     <string name="phone_recorder_started">Запись</string>
     <string name="phone_recorder_start_error">Не удается начать запись</string>
@@ -34,7 +39,7 @@
     <string name="hall_tip_ringing">Проведите по нижней части панели, чтобы ответить или отклонить вызов.</string>
     <string name="hall_tip_offhook">Щелкните нижнюю часть панели, чтобы завершить вызов.</string>
     <string name="hall_tip_offhook_muti_call">При открытии панели вызовы могут переключаться.</string>
-    <string name="dialing_settings">Параметры набора номера</string>
+    <string name="dialing_settings">Настройки набора номера</string>
     <string name="accessibility_settings">Настройки доступности</string>
     <string name="cdma_endcall_redial">Повторный набор</string>
     <string name="cdma_endcall_sendmms">Отправить SMS</string>
@@ -48,7 +53,7 @@
     <string name="error">Ошибка</string>
     <string name="voice_call_settings">Настройки голосовых вызовов</string>
     <string name="voice_call_settings_title">Голосовой вызов</string>
-    <string name="voice_call_settings_summary">Параметры, относящиеся к голосовому вызову</string>
+    <string name="voice_call_settings_summary">Настройка голосовых вызовов</string>
     <string name="voicemail_summary">Настройки службы голосовой почты</string>
     <string name="CF_summary">Настройки переадресации вызовов</string>
     <string name="ip_dialing_title">IP-набор</string>
@@ -65,11 +70,11 @@
     <string name="proximity_sensor_summary_on">Во время звонка подсветка экрана автоматически отключается</string>
     <string name="proximity_sensor_summary_off">Датчик приближения закрыт</string>
     <string name="flip_silent">Датчик переворота</string>
-    <string name="flip_silent_summary">Переверните телефон экраном вниз для отключения мелодии входящего вызова</string>
+    <string name="flip_silent_summary">Переверните телефон для отключения звука входящего вызова</string>
     <string name="smart_call_answer">Смарт-ответ</string>
-    <string name="smart_call_answer_summary">При входящем вызове поднесите аппарат к уху для ответа</string>
-    <string name="unknown_number_save_to_contacts_title">Сохранять в контактах</string>
-    <string name="unknown_number_save_to_contacts_summary">Сохранять неизвестные номера в контактах после завершения вызова</string>
+    <string name="smart_call_answer_summary">При входящем вызове просто поднесите аппарат к уху</string>
+    <string name="unknown_number_save_to_contacts_title">Сохранить в контактах</string>
+    <string name="unknown_number_save_to_contacts_summary">Добавить неизвестный номер к контактам после завершения вызова</string>
     <string name="headset_answer_title">Режим наушников</string>
     <string name="headset_answer_summary">Настройка режима наушников</string>
     <string name="ip_dial_sub_title">" Параметры IP-набора"</string>
@@ -219,6 +224,11 @@
     <string name="summary_tip_interal_roaming_network_settings">CDMA автоматически выберет сеть по умолчанию без ручной настройки. Если не удается продолжить работу в текущей сети, попробуйте провести операцию переключения вручную.</string>
     <string name="dialog_msg_request_next_network">Нажмите кнопку ОК, затем попробуйте найти следующую доступную сеть, текущая сеть добавлена в список фильтрации. Автоматически пропускать эту сеть при следующем поиске.</string>
     <string name="dialog_msg_clear_avoid_network">Список для фильтрации сетей почти пуст, вы действительно хотите продолжить?</string>
+
+
+
+
+
     <string name="prl_title">Версия PRL</string>
     <string name="network_prefer_title_cdma">GSM(WCDMA)Предпочитаемая версия сети</string>
     <string name="network_prefer_title_gsm">Предпочитаемая версия сети</string>
@@ -495,6 +505,8 @@
     <string name="data_enabled">Передача данных</string>
     <string name="data_enable_summary">Разрешить передачу данных по сети мобильной связи</string>
     <string name="roaming">Интернет-роуминг</string>
+
+
     <string name="roaming_enable">Подключаться к службам передачи данных в роуминге</string>
     <string name="roaming_disable">Подключаться к службам передачи данных в роуминге</string>
     <string name="roaming_reenable_message">Передача данных прекращена, потому что телефон находится за пределами домашней сети, а интернет-роуминг выключен.</string>
@@ -502,10 +514,10 @@
     <string name="gsm_umts_options">Параметры GSM/UMTS</string>
     <string name="cdma_options">Параметры CDMA</string>
     <string name="mobile_network_setting">Параметры сети мобильной связи</string>
-    <string name="network_settings_sel_sub">Выберите SIM</string>
+    <string name="network_settings_sel_sub">Управление SIM-картами</string>
     <string name="network_manage_settings">Параметры сети</string>
     <string name="title_data_settings">Параметры данных</string>
-    <string name="summary_manage_subscriptions">Управление параметрами сети для каждой подписки</string>
+    <string name="summary_manage_subscriptions">Управление параметрами сети для каждой SIM-карты</string>
     <string name="throttle_data_usage">Контроль трафика</string>
     <string name="throttle_current_usage">Передача данных в текущем периоде</string>
     <string name="throttle_time_frame">Время передачи данных</string>
@@ -591,6 +603,9 @@
     <string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
     <string name="network_lte">LTE (рекомендуется)</string>
     <string name="network_4G">4G (рекомендуется)</string>
+
+
+
     <string name="network_global">Все</string>
     <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
@@ -909,6 +924,8 @@
     <string name="default_preference_summary">&lt;Не настроено></string>
     <string name="display_name_summary">&lt;Совпадает с именем пользователя></string>
     <string name="optional_summary">&lt;Необязательно></string>
+
+
     <string name="advanced_settings_show">▷ Нажмите, чтобы показать все</string>
     <string name="advanced_settings_hide">▽ Нажмите, чтобы скрыть все</string>
     <string name="empty_alert">Поле \"%s\" должно быть заполнено.</string>
@@ -942,6 +959,7 @@
     <string name="call_type">CallType</string>
     <string name="mo_call_type_title">Типа вызова MO</string>
     <string name="ims_service_capability">Включение или отключение возможностей службы</string>
+
     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
     <string name="ims_service_capability_title">Включение или отключение возможностей службы IMS</string>
     <string name="use_ims_default_summary">Использовать IMS для всех вызовов голосовой связи</string>
@@ -989,6 +1007,7 @@
     <string name="dtmf_tone_enable_title">Звук клавиш</string>
     <string name="dial_pad_autocomplete">Автозаполнение номера</string>
     <string name="preference_category_ringtone">Рингтон</string>
+
     <string name="contactScreen">Добавить/изменить контакт на SIM-карте</string>
     <string name="exportContactScreen">Экспорт контактов телефона на SIM-карту</string>
     <string name="addSimEntries">Добавить контакт на SIM-карте</string>

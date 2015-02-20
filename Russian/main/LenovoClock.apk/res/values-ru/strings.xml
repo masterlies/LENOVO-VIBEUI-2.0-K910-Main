@@ -207,10 +207,10 @@
     <string name="alert_snooze_text">Повтор</string>
     <string name="alert_dismiss_text">Закрыть</string>
     <string name="str_x_minute_alert_again">Повтор через %1$s мин</string>
-
+    <string name="str_x_minutes_alert_again">Повтор через %1$s мин</string>
 
     <string name="str_time_to_sound_pre">Время будильника:</string>
-    <string name="str_time_to_sound">%1$s%2$s</string>
+    <string name="str_time_to_sound">%1$s час. %2$s мин.</string>
     <string name="str_voice_time">Проговорить время</string>
     <string name="str_voice_time_summary">Проговорить время при сигнале будильника</string>
     <string name="alarm_in_silent_mode_title">Будильник в бесшумном и виброрежимах</string>
@@ -226,8 +226,8 @@
     <string name="pause_timer">Пауза</string>
     <string name="Record">Запись</string>
     <string name="no_record">Нет кругов</string>
-
-
+    <string name="background_run">Запустить в фоне</string>
+    <string name="repeat_public_weekdays">рабочие дни</string>
     <string name="str_alarm_off">Выкл.</string>
 
     <string name="worldtime">Мировое время</string>

@@ -42,9 +42,6 @@
     <string name="scene_title_used_name_note">Имя уже существует. Введите другое имя</string>
     <string name="scene_title_invaild_name">Имя сценария содержит недопустимые символы</string>
     <string name="scene_enable_time_conflict">Неудачный запуск из-за конфликта между эффективным временем сценария и временем другого активного сценария</string>
-    <string name="scene_list_head_alarm">Запланированные сценарии</string>
-    <string name="scene_list_head_ap">Wi-Fi сценарии</string>
-    <string name="scene_list_head_nfc">NFC сценарии</string>
     <string name="trigger_nfc_note">Сценарий активируется по метке NFC</string>
     <string name="trigger_ap_note">Сценарий активируется при подключении к выбранной точке доступа Wi-Fi</string>
     <string name="trigger_alarm_note">Сценарий активируется в указанные дни и промежуток времени</string>
@@ -101,11 +98,13 @@
     <string name="help_content">"Запланировано: Запуск сценария в назначенное время;
 Wi-Fi сценарии: Запуск сценария при подключении к Wi-Fi;
 Приоритет: Запланировано > Wi-Fi сценарии."</string>
+
     <string name="help_summary_nfc">Предлагается три типа сценариев</string>
     <string name="help_content_nfc">"Запланировано: Запуск сценария в назначенное время;
 Wi-Fi сценарии: Запуск сценария при подключении к Wi-Fi;
 NFC сценарии: Запуск сценария в соответствии с меткой NFC;
 Приоритет: NFC сценарии > Запланировано > Wi-Fi сценарии."</string>
+
     <string name="new_sim">Новая SIM-карта</string>
     <string name="icon_select_title">Значок сценария</string>
     <string name="exit_edit_dialog_title">Отмена</string>
@@ -114,4 +113,57 @@ NFC сценарии: Запуск сценария в соответствии 
     <string name="wlan_select_head_bound">Сценарии привязанных Wi-Fi</string>
     <string name="wlan_select_open_wlan">Wi-Fi подключение не активно. Открыть настройки Wi-Fi?</string>
     <string name="scene_name_too_long">Слишком длинное имя сценария</string>
+    <string name="morning_lesson">Дневная учёба</string>
+    <string name="afternoon_lesson">Вечерняя учёба</string>
+    <string name="class_length">Длительность курса</string>
+    <string name="break_length">Длительность каникул</string>
+    <string name="short_break_length">Короткий перерыв</string>
+    <string name="long_break_length">Длинный перерыв</string>
+    <string name="my_time">Время самообразования</string>
+    <string name="repeat_week">Расписание занятий</string>
+    <string name="class_day">Даты занятий</string>
+    <string name="add">Увеличить</string>
+    <string name="minute">Минут(ы)</string>
+    <string name="curriculum_scene_title">Сценарий курса занятий</string>
+    <string name="curriculum_scene_note">Переключение сценариев согласно началу и окончанию занятий</string>
+    <string name="curriculum_event_note">Введите название</string>
+    <string name="to">~</string>
+    <string name="lesson">Пора на занятия</string>
+    <string name="night_study">Домашнее задание</string>
+    <string name="class_length_0">Не ленитесь, продолжительность занятий должна быть больше, чем 0 мин.</string>
+    <string name="break_length_0">Необходимо найти баланс между работой и отдыхом, отдых не может длиться 0 мин.</string>
+    <string name="class_out_of_day">Окончание занятий выбрано слишком рано, почему бы не подправить это?</string>
+    <string name="morning_class_out">Последние утренние занятия не могут быть позже 12 часов, т.к. необходимо обедать</string>
+    <string name="scene_out_of_max">Создано слишком много сценарием, нельзя создать больше</string>
+    <string name="smart_scene_summary">Сценарий необходим для Смарт-переключения</string>
+    <string name="curriculum_time_set">Время занятий</string>
+    <string name="class_information">Настройки времени занятий</string>
+    <string name="class_free_set">Настройки курса занятий</string>
+    <string name="common_scene">Регулярные сценарии</string>
+    <string name="other_scene">Другие сценарии</string>
+    <string name="stay_notification">Постоянное уведомление</string>
+    <string name="stay_notification_summary">При смене сценариев будет появлятся оповещение с статус-баре</string>
+    <string name="export_into_file">Экспорт в файл</string>
+    <string name="export_into_file_summary">Экспорт умного сценария в файл</string>
+    <string name="import_from_file">Импорт из файла</string>
+    <string name="import_from_file_summary">Импорт умного сценария из файла</string>
+    <string name="action_settings">Настройки</string>
+    <string name="export_check_note">Данные бедут перенесены в</string>
+    <string name="export_success">Данные перенесены</string>
+    <string name="export_failed">Ошибка переноса данных</string>
+    <string name="import_file_not_found">"Файл импорта не найден:  "</string>
+    <string name="import_file_found">"Файл импорта найден:  "</string>
+    <string name="import_check_note">Импортируемые сценарии заменят существующие данные. Продолжить импорт?</string>
+    <string name="import_success">Импорт данных окончен</string>
+    <string name="progressing">Обработка...</string>
+    <string name="frequency_empty">Выбрете по меньшей мере один день в неделю для выполнения сценария</string>
+    <string name="move_into">Переместить в</string>
+    <string name="morning">ДП</string>
+    <string name="afternoon">ПП</string>
+    <string name="ringer">Звук</string>
+    <string name="sleep">Сон</string>
+    <string name="scene_in_toast">Занесено в \"%s\" сценарий</string>
+    <string name="time_error_note">Время долдно быть между %s.</string>
+    <string name="storage_path0">Внутренняя память</string>
+    <string name="night_mode">Ночной режим</string>
 </resources>

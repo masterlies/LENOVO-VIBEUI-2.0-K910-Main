@@ -182,11 +182,11 @@
     <string name="master_clear_title">Сброс к заводским настройкам</string>
     <string name="master_clear_summary">Стереть все данные на телефоне</string>
     <string name="master_clear_gesture_explanation">Вы должны начертить графический ключ для подтверждения сброса данных.</string>
-    <string name="master_clear_desc">"Это сотрёт все данные с "<b> внутренней памяти </b>" вашего планшета, в том числе:", including:
-
-"<li>Учётную запись Google</li>"
+    <string name="master_clear_desc">Это сотрёт все данные с <b> внутренней памяти </b> вашего планшета, в том числе:, including: <li>Учётную запись Google</li>"
 "<li>Настройки системы и данне приложений</li>"
 "<li>Загруженные приложения</li></string>
+
+
     <string name="reset_backup_befor_reset_title">Резервное копирование данных перед сбросом</string>
     <string name="reset_backup_befor_reset_summary">Перед сбросом, создайте резервную копию контактов и другие важные данные</string>
     <string name="reset_skip_backup_title">Пропустить создание резервной копии</string>

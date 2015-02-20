@@ -5,7 +5,7 @@
     <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
     <string name="com_lenovo_lsf_lenovouser_btn_retry">Повтор</string>
     <string name="com_lenovo_lsf_lenovouser_login_progess">Вход. Подождите</string>
-    <string name="com_lenovo_lsf_lenovouser_login_failure">Сбой входа учетной записи</string>
+    <string name="com_lenovo_lsf_lenovouser_login_failure">Ошибка входа</string>
     <string name="com_lenovo_lsf_lenovouser_login_networkfailure">Ошибка подключения к сети. Проверьте сеть.</string>
     <string name="com_lenovo_lsf_lenovouser_login_resendst">Отправлено сообщ. активации</string>
     <string name="com_lenovo_lsf_lenovouser_login_resends">На вашу эл. почту отправлено новое сообщение активации. Проверьте почту.</string>
@@ -137,7 +137,7 @@
     <string name="com_lenovo_lsf_string_my_account">Моя уч. запись</string>
     <string name="com_lenovo_lsf_string_my_account_with_title">Моя уч. запись:</string>
     <string name="com_lenovo_lsft_string_my_account_unset">Пароль еще не был задан.</string>
-    <string name="com_lenovo_lsf_string_change_personal_information">Изменить личную информацию</string>
+    <string name="com_lenovo_lsf_string_change_personal_information">Личная информация</string>
     <string name="com_lenovo_lsf_string_change_account">Переместить уч. запись</string>
     <string name="com_lenovo_lsf_string_change_account_function_description">Эта функция приведет к перемещению всех данных и информации из предыдущей уч. записи в новую уч. запись</string>
     <string name="com_lenovo_lsf_sso_qq_login_progress">Вход в QQ. Подождите.</string>
@@ -190,12 +190,12 @@
     <string name="com_lenovo_lsf_error_empty_phone">Введите номер телефона</string>
     <string name="com_lenovo_lsf_error_wrong_phone">Введите точный номер телефона</string>
     <string name="com_lenovo_lsf_error_empty_verycode">Введите код проверки</string>
-    <string name="com_lenovo_lsf_string_associated_with_phone_number">Привязать номер телефона</string>
+    <string name="com_lenovo_lsf_string_associated_with_phone_number">Номер телефона</string>
     <string name="com_lenovo_lsf_string_empty_phone_number">Номер телефона является пустым</string>
     <string name="com_lenovo_lsf_string_getting_captcha">Получение кода проверки</string>
     <string name="com_lenovo_lsf_onekey_authenticating">Аутентификация...</string>
-    <string name="com_lenovo_lsf_regist_by_phone">Зарегистрировать с помощью номера телефона</string>
-    <string name="com_lenovo_lsf_login_entrance_onekey_text">Вход по одному нажатию</string>
+    <string name="com_lenovo_lsf_regist_by_phone">Регистрация по номеру телефона</string>
+    <string name="com_lenovo_lsf_login_entrance_onekey_text">Вход по одному касанию</string>
     <string name="com_lenovo_lsf_login_entrance_onekey_show1">Использовать все службы Lenovo под одной уч. записью</string>
     <string name="com_lenovo_lsf_login_entrance_onekey_show2">SYNCit, Lenovo Memo, Super Album</string>
     <string name="com_lenovo_lsf_login_entrance_onekey_show3">Использовать номер телефона в качестве Lenovo ID для входа</string>
@@ -235,7 +235,7 @@
     <string name="com_lenovo_lsf_string_regist_sucess_and_login_with_point">Успешная регистрация. Выполняется вход...</string>
     <string name="com_lenovo_lsf_string_getting_captcha_with_point">Получение кода проверки...</string>
     <string name="com_lenovo_lsf_string_change_account_success">Уч. запись успешно изменена</string>
-    <string name="com_lenovo_lsf_bind_phone">Привязать номер телефона</string>
+    <string name="com_lenovo_lsf_bind_phone">Номер телефона</string>
     <string name="com_lenovo_lsf_bind_email">Запасной адрес эл. почты</string>
     <string name="com_lenovo_lsf_deputy_unset">Не задан</string>
     <string name="com_lenovo_lsf_third_unbind">Отменить привязку</string>
@@ -373,7 +373,7 @@
     <string name="com_lenvo_lsf_string_current_email">Текущий адрес электронной почты:</string>
     <string name="com_lenvo_lsf_string_please_input_new_email">Новый адрес электронной почты:</string>
     <string name="com_lenovo_lsf_login">Войти</string>
-    <string name="com_lenovo_lsf_sign_up">Подписаться</string>
+    <string name="com_lenovo_lsf_sign_up">Регистрация</string>
     <string name="com_lenovo_lsf_country_select_title">Выберете страну</string>
     <string name="com_lenovo_lsf_lenovouser_userinfo_logouts">Учётная запись отключена.</string>
     <string name="com_lenovo_lsf_string_account_is_transferring">Изменение учётной записи...</string>
@@ -383,7 +383,9 @@
     <string name="com_lenovo_lsf_onekey_connecting_server">подключение к серверу</string>
     <string name="com_lenovo_lsf_onekey_authorizing">Авторизация</string>
     <string name="com_lenovo_lsf_onekey_logining">Вход</string>
-    <string name="no_browser">Ошибка открытия браузера. Проверьте корректно ли установлен браузер и не блокируется ли другими приложениями.</string>
+    <string name="no_browser">Не могу открыть браузер. Проверьте корректно ли установлен браузер и не блокирется ли системами безопасности.</string>
+    <string name="com_lenovo_lsf_msg_title">Отправка SMS</string>
+    <string name="com_lenovo_lsf_msg_content">Для продолжения необходимо отправить SMS， продолжить?</string>
     <string name="com_lenovo_lsf_phone_area_code">+86</string>
     <string name="app_name">Lenovo ID</string>
     <string name="account_settings">Настройки учетной записи</string>
@@ -406,7 +408,6 @@
     <string name="boot_wizard_login_other">Другие службы</string>
     <string name="com_lenovo_lsf_string_contact_method">Контакты</string>
     <string name="com_lenovo_lsf_string_check_update">Проверка обновления</string>
-    <string name="com_lenovo_lsf_string_feedback">Отзыв</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi</string>
     <string name="SUS_MSG_LATESTVERSION">Самая новая версия</string>
     <string name="SUS_MSG_NOTFOUND">Не найдено</string>

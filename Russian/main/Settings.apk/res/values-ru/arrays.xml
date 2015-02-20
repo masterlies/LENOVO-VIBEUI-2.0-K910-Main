@@ -9,12 +9,6 @@
         <item>Тихий океан</item>
         <item>Все</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>ММ-дд-гггг</item>
-        <item>дд-ММ-гггг</item>
-        <item>гггг-ММ-дд</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 сек.</item>
         <item>30 сек.</item>
@@ -35,7 +29,7 @@
         <item>30 мин.</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Сразу</item>
+        <item>Незамедлительно</item>
         <item>Через 5 сек.</item>
         <item>Через 15 сек.</item>
         <item>Через 30 сек.</item>
@@ -52,14 +46,15 @@
         <item>Огромный</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Очень медленная</item>
-        <item>Медленная</item>
-        <item>Обычная</item>
-        <item>Быстрая</item>
-        <item>Очень быстрая</item>
-        <item>Скоростная</item>
-        <item>Очень скоростная</item>
-        <item>Быстрейшая</item>
+        <item>Очень медленный</item>
+        <item>Медленный</item>
+        <item>Обычный</item>
+        <item>Беглый</item>
+        <item>Быстрый</item>
+        <item>Достаточно быстрый</item>
+        <item>Скоростной</item>
+        <item>Ещё быстрее</item>
+        <item>Самый быстрый</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Очень низкий</item>
@@ -114,6 +109,11 @@
         <item>WAPI PSK</item>
         <item>СЕТРИФИКАТ WAPI</item>
     </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa</item>
+        <item>@string/wifi_security_wpa2</item>
+    </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
@@ -135,20 +135,20 @@
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>2 мин.</item>
         <item>5 мин.</item>
-        <item>1 ч.</item>
-        <item>Без тайм-аута</item>
+        <item>1 час</item>
+        <item>Видим всегда</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Слабый</item>
         <item>Плохой</item>
-        <item>Приемлимый</item>
+        <item>Нормальный</item>
         <item>Хороший</item>
         <item>Отличный</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Не выключать</item>
         <item>Только при питании от сети</item>
-        <item>Всегда выключать (моб. трафик больше)</item>
+        <item>Всегда выключать(расход. моб. трафик)</item>
     </string-array>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI, ASCII</item>
@@ -227,11 +227,6 @@
         <item>Съемная SD-карта</item>
         <item>На усмотрение системы</item>
     </string-array>
-    <string-array name="app_install_location_values">
-        <item>телефон</item>
-        <item>sdcard</item>
-        <item>авто</item>
-    </string-array>
     <string-array name="app_ops_categories">
         <item>Местоположение</item>
         <item>Личные данные</item>
@@ -250,7 +245,7 @@
         <item>изменение списка вызовов</item>
         <item>считывать данные календаря</item>
         <item>изменение календаря</item>
-        <item>поиск WLAN</item>
+        <item>поиск Wi-Fi</item>
         <item>уведомление</item>
         <item>поиск мобильных сетей</item>
         <item>позвонить</item>
@@ -289,12 +284,12 @@
         <item>Местоположение</item>
         <item>Местоположение</item>
         <item>Вибросигнал</item>
-        <item>Чтение контактов</item>
-        <item>Правка контактов</item>
-        <item>Чтение списка вызовов</item>
-        <item>Правка списка вызовов</item>
-        <item>Чтение календаря</item>
-        <item>Правка календаря</item>
+        <item>Считывать данные контактов</item>
+        <item>Изменение контактов</item>
+        <item>Просмотр списка вызовов</item>
+        <item>Изменение списка вызовов</item>
+        <item>Считывать данные календаря</item>
+        <item>Изменение календаря</item>
         <item>Местоположение</item>
         <item>Разместить уведомление</item>
         <item>Местоположение</item>
@@ -415,13 +410,13 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Сеть не выбрана</item>
-        <item>720 x 480 пикс. (mdpi)</item>
-        <item>720 x 480 пикс. (secure)</item>
-        <item>1280 x 720 пикс. (tvdpi)</item>
-        <item>1280 x 720 пикс. (secure)</item>
-        <item>1920 x 1080 пикс. (xhdpi)</item>
-        <item>1920 x 1080 пикс. (secure)</item>
-        <item>1280x720 (tvdpi)/1920x1080 (xhdpi)</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (secure)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (secure)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Сеть не выбрана</item>
@@ -455,12 +450,12 @@
         <item>Не более 4 процессов</item>
     </string-array>
     <string-array name="vpn_types_long">
-        <item>VPN-соединение по протоколу PPTP</item>
-        <item>VPN-соединение по протоколу L2TP/IPSec с общими ключами</item>
-        <item>VPN-подключение по протоколу L2TP/IPSec с использованием сертификатов</item>
-        <item>VPN-подключение IPSec с общими ключами и аутентификацией Xauth</item>
-        <item>VPN-подключение IPSec с использованием сертификатов и аутентификации Xauth</item>
-        <item>VPN-подключение IPSec с использованием сертификатов и комбинированной аутентификации</item>
+        <item>VPN PPTP</item>
+        <item>VPN L2TP/IPSec с общими ключами</item>
+        <item>VPN L2TP/IPSec с использованием сертификатов</item>
+        <item>VPN IPSec с общими ключами и аутентификацией Xauth</item>
+        <item>VPN IPSec с использованием сертификатов и аутентификации Xauth</item>
+        <item>VPN IPSec с использованием сертификатов и комбинированной аутентификации</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Отключена</item>
@@ -477,11 +472,6 @@
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Спрашивать</item>
-        <item>Не разрешать</item>
-        <item>Разрешать всегда</item>
-    </string-array>
     <string-array name="ram_states">
         <item>высокий</item>
         <item>средний</item>
@@ -489,19 +479,25 @@
         <item>очень низкий</item>
     </string-array>
     <string-array name="multi_sim_entries">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>SIM 3</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>Рекомендация системы</item>
+        <item>Установлено на телефон</item>
+        <item>Установлено на SD-карту</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_smart">
-        <item>Всегда</item>
-        <item>Только при подключении</item>
-        <item>Никогда (даже при обмене данными)</item>
-        <item>Умный(Включается автоматически при обмене данными)</item>
+        <item>Всегда включен</item>
+        <item>Включен во время зарядки</item>
+        <item>Выключен (увеличивается трафик моб.сети)</item>
+        <item>Умный Wi-Fi(Включается автоматически при обмене данными)</item>
     </string-array>
     <string-array name="entries_volume_up_option">
         <item>Включить экран(Нажать кнопку громкости для включения экрана)</item>
         <item>Быстрое фото(Когда экран выключен, двойное нажатие кнопки громкости вниз делает снимок)</item>
-        <item>Закрыть</item>
+        <item>Стандартная</item>
     </string-array>
     <string-array name="entryvalues_smart_rotation">
         <item>0</item>
@@ -509,19 +505,19 @@
         <item>3</item>
     </string-array>
     <string-array name="entries_smart_rotation">
-        <item>Смарт-поворот (зависит от положения ваших глаз)</item>
-        <item>Авто-поворот (зависит от положения устройства)</item>
+        <item>Смарт-поворот (зависит от положения глаз)</item>
+        <item>Автоповорот экрана</item>
         <item>Отключен</item>
     </string-array>
     <string-array name="entries_keyboard_lights">
         <item>Всегда включены</item>
         <item>3-х сек. интервал</item>
         <item>Автоматически</item>
-        <item>Закрыть</item>
+        <item>Нет подсветки</item>
     </string-array>
     <string-array name="multi_sim_entries_voice">
-        <item>Подписка 1</item>
-        <item>Подписка 2</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
         <item>Подсказка</item>
     </string-array>
     <string-array name="saturation">
@@ -540,7 +536,7 @@
     </string-array>
     <string-array name="sharpen">
         <item>По умолчанию</item>
-        <item>Резкость</item>
+        <item>Резко</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>Авто LTE/WCDMA/GSM</item>

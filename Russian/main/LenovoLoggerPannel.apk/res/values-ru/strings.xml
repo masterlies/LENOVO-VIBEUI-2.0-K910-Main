@@ -40,4 +40,9 @@
     <string name="crash_test_report_txt">[Точка остановки]</string>
     <string name="crash_test_report_kernel_txt">Ядро:</string>
     <string name="crash_test_report_android_txt">Андроид:</string>
+    <string name="crash_diag_limit_txt">Crash Abstract</string>
+    <string name="crash_diag_full_txt">Crash Detail</string>
+    <string name="crash_diag_output_txt">Delete Output</string>
+    <string name="crash_diag_output_msg">Please backup! Or it will delete log_out folder under internal SD card!</string>
+    <string name="crash_diag_deepclean_msg">also clear the origrin under data patition (recommend not slect, for repaired phone)</string>
 </resources>

@@ -19,6 +19,7 @@
     <string name="network_skip_tips">Для лучшего обслуживания и поддержки, рекомендуем вам подключиться к Интернету.</string>
     <string name="network_skip">Пропустить</string>
     <string name="network_not_skip">Не пропускать</string>
+    <string name="lenovo_license_agree">Согласен</string>
     <string name="server_lenovo_exp_summary">Зайдите сюда для %1$s данных поддерки ПО и %2$s услуг.</string>
     <string name="exp_color_text1">последних</string>
     <string name="exp_color_text2">настройки</string>
@@ -35,10 +36,4 @@
     <string name="pad_complete_thanks">Спасибо за выбор Lenovo!</string>
     <string name="pad_complete_start">Начните пользоваться новым устройством</string>
     <string name="complete_summary">Начальная настройка закончена, теперь можно начать пользоваться новым телефоном!</string>
-    <string name="tranfser_later">Для продолжения нажмите сюда</string>
-    <string name="tranfser_summary">Попрощайтесь с вашим старым телефоном и %1$s ваши контакты, сообщения, картинки и программы.</string>
-    <string name="tranfser_color_text1">перенесите все</string>
-    <string name="tranfser_from_old_phone">Переместить данные со старого телефона на новый</string>
-    <string name="tranfser_from_old_phone_summary">Это сработает только если ваш предыдущий телефон тоже использовал систему Android.</string>
-    <string name="tranfser_from_old_phone_help">Руководство по эксплуатации старого телефона</string>
 </resources>

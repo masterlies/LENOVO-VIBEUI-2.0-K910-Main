@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <string name="english_ime_debug_settings">Клавиатура Android Настройки отладки</string>
     <string name="prefs_debug_mode">Режим Отладки</string>
     <string name="prefs_force_non_distinct_multitouch">Включен режим без мультитач</string>
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="settings_warning_researcher_mode">Внимание! Вы используете специальную клавиатуру для разработчиков.</string>
-
-
-
+    
+    
+    
     <string name="research_feedback_menu_option">Отправить отзыв</string>
     <string name="research_feedback_dialog_title">Отправка отзыва.</string>
     <string name="research_feedback_hint">Введите свой отзыв.</string>
@@ -232,16 +232,16 @@
     <string name="setup_start_action">Начать работу</string>
     <string name="setup_next_action">Далее</string>
     <string name="setup_steps_title">%s: настройка</string>
-
+    
     <string name="setup_step1_title">%s: включение</string>
     <string name="setup_step1_instruction">Установите флажок %s в меню \"Язык и ввод\", чтобы использовать этот способ ввода на устройстве.</string>
     <string name="setup_step1_finished_instruction">Приложение %s уже включено в настройках языка и ввода, поэтому можно перейти к следующему шагу.</string>
     <string name="setup_step1_action">Включить в настройках</string>
-
+    
     <string name="setup_step2_title">%s: активация</string>
     <string name="setup_step2_instruction">Выберите приложение \"%s\" как текущий способ ввода.</string>
     <string name="setup_step2_action">Другой способ ввода</string>
-
+    
     <string name="setup_step3_title">Настройте дополнительные языки.</string>
     <string name="setup_step3_instruction">Теперь вы можете использовать приложение \"%s\" для набора текста.</string>
     <string name="setup_step3_action">Настроить дополнительные языки</string>
@@ -279,7 +279,7 @@
     <string name="dict_available_notification_description">Нажмите, чтобы просмотреть и загрузить</string>
     <string name="toast_downloading_suggestions">Загрузка словаря: %1$s…</string>
     <string name="version_text">Версия %1$s</string>
-
+    
     <string name="user_dict_settings_add_menu_title">Добавить</string>
     <string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
     <string name="user_dict_settings_add_screen_title">Фраза</string>
@@ -299,4 +299,5 @@
     <string name="user_dict_settings_more_languages">Другой язык</string>
     <string name="user_dict_settings_delete">Удалить</string>
     <string name="user_dict_fast_scroll_alphabet">" АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+    
 </resources>

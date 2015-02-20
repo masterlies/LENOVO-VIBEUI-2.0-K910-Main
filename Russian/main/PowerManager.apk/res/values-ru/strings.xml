@@ -4,7 +4,7 @@
     <string name="smart_setting_icon_content">S</string>
     <string name="ok">ОК</string>
     <string name="cancel">Отмена</string>
-    <string name="power_consume_app_freeze">Заморозить</string>
+    <string name="power_consume_app_freeze">Остановить</string>
     <string name="power_consume_app_unfreeze">Освободить</string>
     <string name="power_consume_app_uninstall">Удалить</string>
     <string name="power_consume_app_details">Сведения</string>
@@ -26,7 +26,7 @@
     <string name="usage_type_cpu">ЦП:</string>
     <string name="usage_type_cpu_foreground">ЦП</string>
     <string name="usage_type_wake_lock">Активный режим</string>
-    <string name="usage_type_alarm">Система пробуждения</string>
+    <string name="usage_type_alarm">Вывод системы из сна</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_wifi_running">Использование Wi-Fi</string>
     <string name="usage_type_data_send">Отправлено</string>
@@ -59,7 +59,7 @@
     <string name="battery_screen_off_time">Ожидание: %s</string>
     <string name="enter_setting">Параметры</string>
     <string name="battery_tab_title_consume">Энергопотребление</string>
-    <string name="battery_history_days_without_seconds" formatted="false">%d дне. %d час. %d мин.</string>
+    <string name="battery_history_days_without_seconds" formatted="false">%d дн. %d час. %d мин.</string>
     <string name="battery_history_hours_without_seconds" formatted="false">%d час. %d мин.</string>
     <string name="battery_history_minutes_without_seconds">%d мин.</string>
     <string name="battery_sensor_info" formatted="false">%d раз(а) по %s</string>
@@ -98,7 +98,7 @@
     <string name="consumption_app_button">Программы</string>
     <string name="consumption_hardware_button">Оборудование</string>
     <string name="power_setting_menu_classic_phone">Экстренный режим</string>
-    <string name="power_setting_menu_smart">Энергосбережение экрана, ЦП и графического процессора</string>
+    <string name="power_setting_menu_smart">Смарт-экономия для экрана, ЦП и графического процессора</string>
     <string name="power_setting_menu_app_deep_clear">Отключение приложений в спящем режиме</string>
     <string name="power_setting_menu_consumption">Расход энергии</string>
     <string name="statistic_assist_title">Дополнительные функции</string>
@@ -118,18 +118,18 @@
     <string name="classicmode_exit_hint_text">Для выхода из экстренного режима энергосбережения коснитесь кнопки закрытия</string>
     <string name="setttings_screen_smart_brightness2">Экономия энергии за счет яркости подсветки экрана</string>
     <string name="setttings_screen_smart_brightness_detail">Снижает энергопотребление на 5-20%</string>
-    <string name="power_engine_vmx_title">Механизм сбережения энергии для вычислительной системы</string>
+    <string name="power_engine_vmx_title">Экономия энергии за счет яркости подсветки экрана</string>
     <string name="power_engine_vmx_detail">Интеллектуальная настройка ЦП для снижения потребления энергии на 10–25%</string>
     <string name="power_engine_fps_title">Экономия энергии за счет видеоускорителя</string>
     <string name="power_engine_fps_detail">Оптимизация работы графического процессора снижает потребление энергии на 10-25%</string>
-    <string name="power_engine_summery_close">После включения этой функции энергопотребление экрана, ЦП и графического процессора уменьшается интеллектуально</string>
+    <string name="power_engine_summery_close">Эта опция интеллектуально снижает энергопотребление экрана, ЦП и графического процессора уменьшается интеллектуально</string>
     <string name="power_engine_summery_close2">Эта опция снижает энергопотребление экрана и графического процессора</string>
-    <string name="power_engine_summery_close3">После включения этой функции энергопотребление экрана уменьшается интеллектуальным образом</string>
+    <string name="power_engine_summery_close3">Эта опция интеллектуально снижает энергопотребление экрана уменьшается интеллектуальным образом</string>
     <string name="power_engine_summery_close4">Эта опция интеллектуально снижает энергопотребление экрана и графического процессора</string>
-    <string name="power_setting_menu_smart2">Энергосбережение экрана</string>
-    <string name="power_setting_menu_smart3">Энергосбережение экрана, ЦП и графического процессора</string>
+    <string name="power_setting_menu_smart2">Смарт-экономия для экрана</string>
+    <string name="power_setting_menu_smart3">Смарт-экономия для экрана, ЦП и графического процессора</string>
     <string name="power_setting_menu_smart4">Смарт-экономия для экрана и графического процессора</string>
-    <string name="power_setting_menu_smart5">Энергосбережение экрана и ЦП</string>
+    <string name="power_setting_menu_smart5">Смарт-экономия для экрана и ЦП</string>
     <string name="power_setting_current_battery" formatted="false">Заряд: %s%s</string>
     <string name="classicmode_lable_clock">Часы</string>
     <string name="battery_remain_time">Ост. время работы:</string>

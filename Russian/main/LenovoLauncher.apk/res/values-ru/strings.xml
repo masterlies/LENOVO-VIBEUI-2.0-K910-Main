@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search_page_title">Поиск приложения</string>
-    <string name="search_page_description">Сдвинуть палецем вверх, найдите apps</string>
+    <string name="search_page_title">Поиск приложений</string>
+    <string name="search_page_description">Проведите вверх для поиска приложений</string>
     <string name="paging_page_title">Супер индикатор</string>
-    <string name="paging_page_description">Легко управлять, слегка двигая</string>
-    <string name="wallpaper_page_title">Xpress wallpaper</string>
-    <string name="wallpaper_page_description">Мои обои соответствуют моему настроению</string>
+    <string name="paging_page_description">Легко управлять, быстро перемещать</string>
+    <string name="wallpaper_page_title">Xpress обои</string>
+    <string name="wallpaper_page_description">Обои под настроение</string>
     <string name="end_page_title_up">Lenovo Launcher</string>
     <string name="end_page_description_up">Beta версия</string>
     <string name="end_page_title">Simple is ultimate complexity</string>
@@ -99,8 +99,8 @@
     <string name="fb_menu_app">Показать список приложений</string>
     <string name="fb_all_feedback_first_show">Вы можете использовать значок в правом верхнем углу, чтобы выбрать для отображения \"Список приложений\" или \"Тип отзыва\"</string>
     <string name="fb_username">Пользователь</string>
-    <string name="fb_itcode">IT-Code</string>
-    <string name="fb_input_itcode">Введите IT-Code</string>
+    <string name="fb_itcode">ITCode</string>
+    <string name="fb_input_itcode">Введите ITCode</string>
     <string name="fb_password">Пароль</string>
     <string name="fb_login">Вход</string>
     <string name="fb_anonymous_login">Анонимный вход</string>
@@ -110,7 +110,7 @@
     <string name="fb_login_fail">Ошибка входа</string>
     <string name="fb_user_or_password_empty">Ни имя пользователя, ни пароль не может быть пустым</string>
     <string name="fb_logining">Вхожу…</string>
-    <string name="fb_login_for_itcode">IT-Code пользователь</string>
+    <string name="fb_login_for_itcode">ITCode пользователь</string>
     <string name="fb_login_for_lenovoid">LenovoID пользователь</string>
     <string name="fb_exchange_show">Изменить формат отображения списка</string>
     <string name="fb_logined">Вы вошли</string>
@@ -118,23 +118,23 @@
     <string name="fb_logout_tip">Вы вошли под аккаунтом \"%s\". Хотите выйти?</string>
     <string name="fb_logout_exchange">Вы вошли под аккаунтом \"%s\". Хотите сменить аккаунт или выйти?</string>
     <string name="fb_cancel">Отмена</string>
-    <string name="fb_itcode_login">Переключить на IT-Code</string>
+    <string name="fb_itcode_login">Переключить на ITCode</string>
     <string name="fb_lenovoid_login">Переключить на LenovoID</string>
     <string name="fb_exchange_account">Переключить аккаунт</string>
     <string name="fb_account_empty">Аккаунт пустой</string>
     <string name="fb_password_empty">Пароль пустой</string>
     <string name="fb_login_select_fail_tip">Ошибка входа. Проверьте сеть или испоьлзуйте другой метод входа</string>
-    <string name="fb_login_for_itcode_desp">Использовать внутренний рабочий IT-Code Lenovo для входа</string>
-    <string name="fb_login_for_itcode_desp2">"Пользователи IT-Code и внутренние пользователи Lenovo используют для входа t3 страницу.
+    <string name="fb_login_for_itcode_desp">Использовать внутренний рабочий ITCode Lenovo для входа</string>
+    <string name="fb_login_for_itcode_desp2">"Пользователи ITCode и внутренние пользователи Lenovo используют для входа t3 страницу.
 Пароль шифруется для обеспечения безопасности. Вы можете использовать его со спокойной душой."</string>
     <string name="fb_login_for_lenovoid_desp">Использовать LenovoID для входа</string>
     <string name="fb_login_for_anonymous_desp">Вход, не требующий сертификации</string>
     <string name="fb_fd_up_switch_account_tips">Дружеское напоминание: После запуска приложения Вы можете менять аккаунты через меню и наблюдать разные версии приложения</string>
     <string name="fb_input_reply">Введите ответ</string>
-    <string name="fb_itcode_login_tip">Для входа с внутренним Lenovo IT-Code</string>
+    <string name="fb_itcode_login_tip">Для входа с внутренним Lenovo ITCode</string>
     <string name="fb_lenovoid_login_tip">Для входа с LenovoID</string>
     <string name="fb_anonymous_login_tip">Для входа без аутентификации</string>
-    <string name="fb_itcode_user">IT-Code пользователь</string>
+    <string name="fb_itcode_user">ITCode пользователь</string>
     <string name="fb_lenovoid_user">LenovoID пользователь</string>
     <string name="fb_anonymous_user">Анонимный пользовательr</string>
     <string name="fb_anonymous_not_login">Аноним, пожалуйста, авторизуйтесь~</string>
@@ -146,7 +146,7 @@
     <string name="fb_xlistview_footer_hint_normal">Больше</string>
     <string name="fb_xlistview_footer_hint_ready">Отпустите для загрузки</string>
     <string name="fb_xlistview_footer_hint_nomore">Данные загружены</string>
-    <string name="fb_favout">Подтвердить (%s)</string>
+    <string name="fb_favout">Approve (%s)</string>
     <string name="fb_not_login">Пожалуйста, войдите~</string>
     <string name="fb_has_login">Подождите! Вы уже в системе. Что ещё вы хотите сделать?</string>
     <string name="fb_has_login_suffix">Войти в систему</string>
@@ -166,13 +166,13 @@
     <string name="fb_official">Lenovo Official</string>
     <string name="fb_not_allow_official">Имя не может содержать Lenovo Official. Введите снова</string>
     <string name="fb_switch_account">Переключение учетных записей</string>
-    <string name="fb_input_feedback">Пожалуйста, введите отзыв</string>
+    <string name="fb_input_feedback_jar">Введите отзыв</string>
     <string name="fb_error_phone">Неверный формат номера. Не забудьте добавить код города для стационарного телефона. Введите снова</string>
     <string name="fb_error_email">Недопустимый адрес электронной почты. Введите снова</string>
     <string name="fb_image">Представленные изображения</string>
     <string name="fb_commit_datausage">Предпологаемый объём данных:</string>
-    <string name="fb_commit_datausageforB">B</string>
-    <string name="fb_commit_datausageforKB">KB</string>
+    <string name="fb_commit_datausageforB">Б</string>
+    <string name="fb_commit_datausageforKB">КБ</string>
     <string name="fb_bug_uninstalled_app">Приложение не установлено</string>
     <string name="fb_error_fb_texttolong">Лимит символов. Благодарю за ваш подробный отзыв</string>
     <string name="fb_error_rp_texttolong">Лимит символов. Спасибо за ваш подробный ответ</string>
@@ -248,7 +248,7 @@
     <string name="fb_channel">Номер канала</string>
     <string name="fb_resolution">Разрешение</string>
     <string name="fb_deviceId">ID Устройства</string>
-    <string name="fb_deviceIdType">Тип ID Устройства</string>    
+    <string name="fb_deviceIdType">Тип ID Устройства</string>
     <string name="lenovo_about">О приложении</string>
     <string name="lenovo_about_update">Обновить</string>
     <string name="lenovo_about_update_now">Обновить сейчас!</string>
@@ -257,10 +257,10 @@
     <string name="lenovo_about_weibo">Sina Weibo</string>
     <string name="lenovo_about_email">Эл. почта</string>
     <string name="lenovo_about_unsupport">Не поддерживается в данный момент. Подождите!</string>
-
+    
     <string name="lenovo_about_AboutInfoCopyRight_Cn">Lenovo Inc. Все права защищены</string>
-    <string name="lenovo_about_AboutInfoCopyRight_En">Copyright © 2014 Lenovo All Rights Reserved</string>
-
+    <string name="lenovo_about_AboutInfoCopyRight_En">Copyright © 2013 Lenovo All Rights Reserved</string>
+    
     <string name="lenovo_about_netconnect_alert">Будут произведены сетевые операции, продолжить?</string>
     <string name="lenovo_about_prompt">Уведомить</string>
     <string name="ab_version_introduction">Описание</string>
@@ -270,9 +270,11 @@
     <string name="ab_downloading_update">Загрузка обновлений...</string>
     <string name="ab_website">Сайт</string>
     <string name="ab_patch_update">Обновление сокращения трафика</string>
-    <string name="action_bar_up_description">Вверх</string>
-    <string name="ab_cvaa_show_items">showing items 1 to num of num</string>
-    <string name="ab_background_data_alert">Разрешить фоновую проверку обновлений?</string>
+    <string name="action_bar_up_description">Навигация</string>
+    <string name="ab_cvaa_show_items">Результаты один к одному</string>
+    <string name="ab_background_data_alert">Хотите проверить обновления в фоновом режиме?</string>
+    <string name="ab_weixin">WeChat</string>
+    <string name="ab_bbs">Forum</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
     <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
     <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
@@ -306,8 +308,512 @@
     <string name="SUS_FIND_NEW_VERSION">Доступна новая версия для вас</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Теперь установите apk.</string>
     <string name="SUS_BTN_UPDATINGPROMPT">Выполняется обновление...</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="download_title">Загрузки</string>
-    <string name="com_lenovo_lsf_app_name">UserFramework</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="download_file_already_exist">Файл уже существует, перезаписать?</string>
+    <string name="notification_download_complete_op01">Файл сохранен в:</string>
+    <string name="download_error_insufficient_memory">Недостаточно памяти</string>
+    <string name="download_error_invalid_descriptor">Неправильный дескриптор</string>
+    <string name="download_error_invalid_ddversion">Неверная DDверсия</string>
+    <string name="download_error_attribute_mismatch">Атрибут несовместим</string>
+    <string name="download_paused">Пауза</string>
+    <string name="authenticate_dialog_title">Пожалуйста, введите имя и пароль.</string>
+    <string name="username">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="action">Войти</string>
+    <string name="confirm_oma_download_title">Подтвердить загрузку?</string>
+    <string name="oma_download_name">Имя:</string>
+    <string name="oma_download_vendor">Владелец:</string>
+    <string name="oma_download_type">Тип:</string>
+    <string name="oma_download_size">Размер:</string>
+    <string name="oma_download_description">Описание:</string>
+    <string name="oma_download_content_not_supported">Нет спец.программы, чтобы открыть этот файл.Продолжить загрузку?</string>
+    <string name="confirm_oma_download_next_url">Загрузка завершена. Продолжить?</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="delete_failed_with_SDcard">Не могу удалить файл. SD-карта не доступна</string>
+    <string name="share_download">Поделится</string>
+    <string name="share_failed_with_download_error">Не удалось загрузить.</string>
+    <string name="pull_to_refresh_pull_label">Потяните для обновления...</string>
+    <string name="pull_to_refresh_release_label">Отпустите для обновления...</string>
+    <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="pull_to_refresh_footer_release_label">Отпустите для обновления...</string>
+    <string name="pull_to_refresh_footer_pull_label">Потяните для обновления...</string>
+    <string name="pull_to_refresh_footer_refreshing_label">Загрузка…</string>
+    <string name="pull_to_refresh_last_update_time">Последнее обновление:%s</string>
+    <string name="app_name">Больше игр</string>
+    <string name="app_name_wallpaper">Обои центра тем</string>
+    <string name="theme_suit">Тема</string>
+    <string name="custom_theme_title">Пользовательские стили центра</string>
+    <string name="theme_preview_title">Предпросмотр</string>
+    <string name="computing_size">Ждите…</string>
+    <string name="invalid_size_value">Не удалось вычислить размер</string>
+    <string name="filter_themes_local">Локальные</string>
+    <string name="filter_themes_online">Онлайн</string>
+    <string name="filter_themes_all">Все</string>
+    <string name="sort_order_alpha">Сортировка по имени</string>
+    <string name="sort_order_size">Сортировка по размеру</string>
+    <string name="show_custom_themes">Настроить</string>
+    <string name="show_download_manager">Менеджер загрузок</string>
+    <string name="reset_theme_preferences">Сбросить настройки темы</string>
+    <string name="reset_theme_preferences_title">Установить по-умолчанию?</string>
+    <string name="reset_theme_preferences_desc">Это установит все настройки темы по-умолчанию</string>
+    <string name="reset_theme_preferences_button">Сброс</string>
+    <string name="no_themes">Нет тем</string>
+    <string name="no_themes_tips">Новые темы будут позже!</string>
+
+    <string name="settings_safetylegal_activity_loading">Загрузка</string>
+    <string name="custom_theme_lockscreen">Локскрин</string>
+    <string name="custom_theme_lockscreen_wallpaper">Обои экрана блокировки</string>
+    <string name="custom_theme_wallpaper">Обои</string>
+    <string name="custom_theme_icons">Стиль иконок</string>
+    <string name="custom_theme_launcher">Лаунчер</string>
+    <string name="custom_theme_widgets">Настройки</string>
+    <string name="custom_theme_sina_weather">Погода Lenovo</string>
+    <string name="custom_theme_boot_shut">Анимация загрузки</string>
+    <string name="custom_theme_font">Шрифт</string>
+    <string name="custom_theme_ideafriend">Телефон</string>
+    <string name="custom_theme_systemui">Уведомления</string>
+    <string name="custom_theme_unready">Не готово</string>
+    <string name="custom_theme_unfound">Обычный</string>
+    <string name="custom_theme_system">Темы</string>
+    <string name="custom_theme_callscreen">Вызовы</string>
+    <string name="custom_theme_systemanim">Анимация</string>
+    <string name="msg_theme_set_success">Тема %1$s успешно установлена</string>
+    <string name="default_package">Age</string>
+    <string name="default_package_classic">Classic</string>
+    <string name="canfinish">"         Пожалуйста, выберите вашу любимую тему"</string>
+    <string name="nomore">Больше нет тем</string>
+    <string name="exit_toast">Нажмите назад ещё раз для выхода</string>
+    <string name="font_title_phone">Телефон</string>
+    <string name="font_title_sdcard">SD-карта</string>
+    <string name="font_sdcard_name_default">Шрифт Lenovo</string>
+    <string name="font_sdcard_description_default">"LENOVO FOR THOSE WHO DO.
+ЦЕНТР ТЕМ LENOVO"</string>
+    <string name="font_sdcard_no_fonts">Нет шрифтов</string>
+    <string name="loading_description">Проведите вверх</string>
+    <string name="loading_slogan">Почувствуйте красоту индивидуальности</string>
+    <string name="font_title_cn">Китайский</string>
+    <string name="font_title_en">Английский</string>
+    <string name="font_sdcard_description_one_cn">"Центр тем Lenovo
+Создан для вас"</string>
+    <string name="font_sdcard_description_two_cn">Темы украшают ваш телефон</string>
+    <string name="font_sdcard_description_en">"ABCDEFGHIJKLMNOPQRS
+TUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+1234567890%&amp;;!?*"</string>
+    <string name="font_free">Бесплатно</string>
+    <string name="font_pay">Купить</string>
+    <string name="font_price">￥%1$s</string>
+    <string name="font_price_def">￥2.00</string>
+    <string name="app_label">Менеджер загрузок</string>
+    <string name="permlab_downloadManager">Загрузить менеджер</string>
+    <string name="permdesc_downloadManager">Приложение для доступа к менеджеру закачек</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера</string>
+    <string name="permdesc_downloadManagerAdvanced">Приложение откроет расширенные функции менеджера загрузки</string>
+    <string name="permlab_downloadCompletedIntent">Уведомления</string>
+    <string name="permdesc_downloadCompletedIntent">Приложение будет вас уведомлять о скачанных файлах</string>
+    <string name="permlab_seeAllExternal">Просмотр загрузок на SD-карте</string>
+    <string name="permdesc_seeAllExternal">Даёт возможность просматривать файлы, загруженные на SD</string>
+    <string name="permlab_downloadCacheNonPurgeable">Кеш</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Просмотр кеша</string>
+    <string name="permlab_downloadWithoutNotification">Загрузить файл без уведомления</string>
+    <string name="permdesc_downloadWithoutNotification">Загрузка без уведомлений</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+    <string name="permdesc_accessAllDownloads">Обеспечивает доступ ко всем загрузкам системы</string>
+    <string name="download_unknown_title">&lt;Без названия></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">еще</string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Загрузка не завершена</string>
+    <string name="notification_need_wifi_for_size">Из-за размера файла рекомендуется использовать Wi-Fi</string>
+    <string name="notification_paused_in_background">В фоновом режиме</string>
+    <string name="wifi_required_title">Загрузка слишком велика для мобильной сети</string>
+    <string name="wifi_required_body">"Используйте Wi-Fi. 
+
+ Скачайте этот файл, когда будете подключены к сети Wi-Fi."</string>
+    <string name="wifi_recommended_title">В очередь?</string>
+    <string name="wifi_recommended_body">"Загрузка может быстро снизить заряд аккумулятора.
+
+ Скачайте этот файл , когда будете подключены к Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать</string>
+    <string name="download_percent">процент</string>
+    <string name="download_title_sorted_by_date">Загрузки - Сортировать по имени</string>
+    <string name="download_title_sorted_by_size">Загрузки - Сортировать по размеру</string>
+    <string name="no_downloads">Нет загрузок.</string>
+    <string name="missing_title">&lt;Неизвестно></string>
+    <string name="button_sort_by_size">Сортировка по размеру</string>
+    <string name="button_sort_by_date">Сортировка по дате</string>
+    <string name="download_queued">Очередь</string>
+    <string name="download_running">В процессе</string>
+    <string name="download_success">Завершено</string>
+    <string name="download_error">Не завершено</string>
+    <string name="dialog_title_not_available">Невозможно загрузить</string>
+    <string name="dialog_failed_body">Повторить позднее или удалить?</string>
+    <string name="dialog_title_queued_body">Файл в очереди</string>
+    <string name="dialog_queued_body">Этот файл в очереди</string>
+    <string name="dialog_file_missing_body">Не могу найти файл</string>
+    <string name="dialog_insufficient_space_on_external">Не могу завершить загрузку. Мало места</string>
+    <string name="dialog_insufficient_space_on_cache">Не могу завершить загрузку. Мало места</string>
+    <string name="dialog_cannot_resume">Загрузка была прервана</string>
+    <string name="dialog_file_already_exists">Невозможно загрузить. Такой файл уже есть</string>
+    <string name="dialog_media_not_found">Невозможно. Внешний носитель не доступен</string>
+    <string name="download_no_application_title">Невозможно открыть файл</string>
+    <string name="remove_download">Убрать</string>
+    <string name="delete_download">Удалить</string>
+    <string name="keep_queued_download">Сохранить</string>
+    <string name="cancel_running_download">Отмена</string>
+    <string name="retry_download">Повторить</string>
+    <string name="deselect_all">Отменить выделение</string>
+    <string name="select_all">Выбрать всё</string>
+    <string name="selected_count">Выбрано</string>
+    <string name="download_share_dialog">Отправить через</string>
+    <string name="share_failed_with_download_paused">Файл не загружен.</string>
+    <string name="dialog_title">Загрузка</string>
+    <string name="paused_dialog_msg">Вы хотите приостановить загрузку?</string>
+    <string name="resume_dialog_msg">Вы хотите продолжить загрузку?</string>
+    <string name="download_msg_no_network">Сеть передачи данных не доступна</string>
+    <string name="msg_download_share_unsupport">Невозможно отправить не поддерживаемый тип.</string>
+    <string name="msg_download_confirm_delete">Подтверждаете удаление?</string>
+    <string name="checkbox_download_confirm_delete">Удалить оригинальный файл</string>
+    <string name="checkbox_download_confirm_next">Не показывать в следующий раз</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="msg_download_confirm_delete_settings">Подтвердите удаление настроек</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="pick_wallpaper">Обои</string>
+    <string name="author">Автор:</string>
+    <string name="size">Размер:</string>
+    <string name="times">Загружено:</string>
+    <string name="File_Loading">Загрузка... Подождите...</string>
+    <string name="File_UnZiping">Распаковка...</string>
+    <string name="File_PrepareZip">Подготовка к архивации...</string>
+    <string name="File_Ziping">Архивация...</string>
+    <string name="File_ZipFail">Не удалось выполнить архивацию</string>
+    <string name="wallpaper_live">Анимация</string>
+    <string name="wallpaper_static">Картинки</string>
+    <string name="live_wallpaper_loading">Загрузка живых обоев…</string>
+    <string name="configure_wallpaper">Настройки…</string>
+    <string name="live_wallpaper_preview_title">Предпросмотр живых обоев</string>
+    <string name="lcapackageinstaller_out_of_space_dlg_title">Нет свободного места</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text2">Не возможно получить данные Lenovo-аккаунта</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text3">Отменено пользователем</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text1">Ошибка сетевого соединения</string>
+    <string name="lcapackageinstaller_permission_error_dlg_text">Ошибка проверки пакета</string>
+    <string name="lcapackageinstaller_permission_error_dlg_title">Ошибка проверки</string>
+    <string name="lcapackageinstaller_Parse_error_dlg_text">Сбой разборки пакета</string>
+    <string name="lcapackageinstaller_Parse_error_dlg_title">Сбой разборки</string>
+    <string name="lcapackageinstaller_install_hint_title">Советы</string>
+    <string name="lcapackageinstaller_install_hint_message">Установ.пакет не был загружен или был удален, загрузите повторно!</string>
+    <string name="lcapackageinstaller_install_succeed">Установка выполнена</string>
+    <string name="wallpaper_insall_success_toast">Обои установлены!</string>
+    <string name="wallpaper_insall_fail_toast">Ошибка применения обоев</string>
+    <string name="whether_install_wallpaper">Вы хотите применить обои?</string>
+    <string name="download_delete_toast">%s удалено</string>
+    <string name="download_install_wallpaper">Применить</string>
+    <string name="release_for_more">Отпустите не большего количества</string>
+    <string name="pull_up_for_more">Свайп для большей информации</string>
+    <string name="magicdownload_loading">Загрузка......</string>
+    <string name="magicdownload_more">Больше</string>
+    <string name="lca_installer_not_found">Ошибка, не могу найти установщик приложений</string>
+    <string name="lcapackageinstaller_manage_applications">Управление приложениями</string>
+    <string name="lcapackageinstaller_out_of_space_dlg_text">Не удалось установить, пожалуйста, освободите место и попробуйте еще раз</string>
+    <string name="lcapackageinstaller_permission_lenovo_authen_error">Ну удалось проверить пакет</string>
+    <string name="lcapackageinstaller_permission_user_cancel_error">Ошибка</string>
+    <string name="lcapackageinstaller_permission_network_error">Ошибка</string>
+    <string name="lcapackageinstaller_permission_device_error">Ошибка</string>
+    <string name="lcapackageinstaller_permission_date_error">Ошибка</string>
+    <string name="lcapackageinstaller_permission_verify_error">Ошибка</string>
+    <string name="lcapackageinstaller_ok">Ок</string>
+    <string name="lcapackageinstaller_cancel">Отмена</string>
+    <string name="lcapackageinstaller_parse_error">Невозможно разобрать, пожалуйста, удалите пакет и загрузите снова.</string>
+    <string name="lcapackageinstaller_install_error">Ошибка.</string>
+    <string name="lcapackageinstaller_lenovo_dlg_prepare_install">Подготовка к установке, пожалуйста подождите</string>
+    <string name="lcapackageinstaller_install_exist">Установка...</string>
+    <string name="install_failed_inconsistent_certificates">Существующий пакет с тем же именем с конфликтующей подписиью уже установлен.</string>
+    <string name="install_failed_older_sdk">Пакет работает только на новых версиях Android.</string>
+    <string name="install_title">Информация</string>
+    <string name="install_failed_download_again">Ошибка</string>
+    <string name="install_complete">Установлено</string>
+    <string name="install_run">Запуск</string>
+    <string name="install_notification_title">%s установлено</string>
+    <string name="download_run_app_fail">%s было установлено</string>
+    <string name="network_connct_settings">Настройки</string>
+    <string name="network_connct_fail">Ошибка подключения к сети.</string>
+    <string name="network_connct_introduction">"Нажмите в пустую область на экране, чтобы обновить
+ после подключения сети интернет"</string>
+    <string name="network_connct_introduction_ex">Проверьте настройки сети</string>
+    <string name="image_failed">Получить превью изображения не удалось!</string>
+    <string name="theme_url_failed">Ошибка загрузки превью!</string>
+    <string name="theme_info_failed">Не могу просмотреть тему онлайн</string>
+    <string name="theme_copyright">CopyRight © 2014 Lenovo все права защищены</string>
+    <string name="theme_about">Описание Центра тем</string>
+    <string name="theme_update">Обновить Центр тем</string>
+    <string name="currentversion">Текущая версия</string>
+    <string name="versionnum">V1.0 Beta2</string>
+    <string name="company">Lenovo</string>
+    <string name="about">Описание</string>
+    <string name="apply">Применить</string>
+    <string name="themeinuse">Эта тема используется</string>
+    <string name="theme_changing">Загрузка, подождите...</string>
+    <string name="theme_changed_success">Ресурс изменен успешно.</string>
+    <string name="theme_changed_fail">Ошибка изменения ресурса.</string>
+    <string name="font_changed_dialog_title">Применить</string>
+    <string name="system_font_changed_dialog_msg">Вы собираетесь использовать набор темы с новым шрифтом или шрифтом по-умолчанию. Нужна перезагрузка.</string>
+    <string name="font_changed_dialog_msg">Вы собираетесь использовать новый шрифт, для этого нужно перезапустить телефон.</string>
+    <string name="font_changed_dialog_yes">Перезагрузка</string>
+    <string name="font_changed_dialog_cancel">Отмена</string>
+    <string name="iknow">Я знаю</string>
+    <string name="date_unknown">Неизвестная дата</string>
+    <string name="timeline_description_days">%1$s день(дней),</string>
+    <string name="timeline_description_downs">Скачать %1$s темы,</string>
+    <string name="timeline_description0_sets">"Установить "</string>
+    <string name="timeline_description1_sets">" тему(темы)"</string>
+    <string name="timeline_cur_time">%1$s используется %2$s день(дней)</string>
+    <string name="free_download">Скачать</string>
+    <string name="cate_title1">Системная тема</string>
+    <string name="cate_title2">Тема приложения</string>
+    <string name="theme_suite">Набор темы</string>
+    <string name="save_current">Сохранить текущий</string>
+    <string name="reset_default">Сбросить по умолчанию</string>
+    <string name="select_themes">" Выберите компонент "</string>
+    <string name="online_download_status_run_prepare">Подготовить загрузку</string>
+    <string name="online_download_status_running">Загрузка...</string>
+    <string name="online_download_status_pause">Пауза...</string>
+    <string name="online_download_status_finish">Завершено</string>
+    <string name="online_download_status_error">Ошибка</string>
+    <string name="online_download_status_install_prepare">Подготовка к установке...</string>
+    <string name="online_download_status_installing">Установка...</string>
+    <string name="online_download_status_install_done">Установка завершена</string>
+    <string name="delete_themeinfo_msg">Подтвердить удаление этой темы?</string>
+    <string name="delete_fail_msg">Невозможно удалить</string>
+    <string name="delete_success_msg">Удаление выполнено</string>
+    <string name="wallapply">Применить</string>
+    <string name="wallpreviewdownload">Скачать</string>
+    <string name="wallsetsuccess">Выполнено</string>
+    <string name="no_netconnect">Не возможно подключиться к сети</string>
+    <string name="lessons_turnright">Повернуть направо</string>
+    <string name="lesssons_trunleft">Повернуть налево</string>
+    <string name="lessons_begindesign">Начать украшать телефон</string>
+    <string name="lessons_getmore">Для большего количества украшений</string>
+    <string name="wallpreview_defaultview">Обои</string>
+    <string name="wallpreview_filenoexist">Этот файл не существует</string>
+    <string name="wallpreview_del_ok">ОК</string>
+    <string name="wallpreview_del_cancle">Отмена</string>
+    <string name="wallpreview_down_suceess">Скачивание завершено</string>
+    <string name="no_sdcard">Не удается найти SD-карту</string>
+    <string name="no_sdcard_download">Не удается найти SD-карты, не удается скачать</string>
+    <string name="use_theme_font">Использовать шрифт темы</string>
+    <string name="use_editor_font">Включить редактор шрифтов</string>
+    <string name="launcher">Лаунчер</string>
+    <string name="wallpaper">Обои</string>
+    <string name="lockscreen">Экран блокировки</string>
+    <string name="systemwidget">Система</string>
+    <string name="bootshut">Экран вкл/выкл</string>
+    <string name="font">Шрифт</string>
+    <string name="ideafriend">Телефонная книго</string>
+    <string name="callscreen">Экран вызова</string>
+    <string name="systemui">Уведомления</string>
+    <string name="systemanim">Анимация</string>
+    <string name="please_wait">Подождите</string>
+    <string name="case_name">Имя:</string>
+    <string name="casename_input">Пожалуйста, введите имя дела:</string>
+    <string name="comfirm">Подтвердить</string>
+    <string name="scheme_saved">Схема была сохранена</string>
+    <string name="scheme_exsit">Схема существует</string>
+    <string name="scheme_save_failed">Ошибка сохранения</string>
+    <string name="bootshutdown">Скачать</string>
+    <string name="environmentremind">Напоминание 2G/3G</string>
+    <string name="wallperviewloadingtext">Попытка загрузить ресурс, пожалуйста подождите...</string>
+    <string name="wallperviewsetlockscreen">Установить обои экрана блокировки</string>
+    <string name="wallperviewsetlockscreenandwallpaper">Установить обои экрана блокировки и рабочего стола</string>
+    <string name="dialog_titles">Напоминание установленного типа сети передачи данных</string>
+    <string name="dialog_message">Текущая сеть передачи данных не Wi-Fi, следует ли продолжать скачать?</string>
+    <string name="dialog_remind">Не показывать</string>
+    <string name="dialog_yes">Да</string>
+    <string name="dialog_no">Нет</string>
+    <string name="wallperviewsetting">Настройка...</string>
+    <string name="wallloading">Загрузка</string>
+    <string name="scheme_timeout">Запрос в базу данных превысил время ожидания, повторите попытку позже</string>
+    <string name="scheme_maxlength">Вы достигли максимальной длины</string>
+    <string name="wallperviewsetwallpaper">Установить обои для рабочего стола</string>
+    <string name="wallperviewcutwallpaper">Рабочий стол</string>
+    <string name="wallperviewcutlocksreenpaper">Локскрин</string>
+    <string name="wallpaper_settings_title">Обои для рабочего стола</string>
+    <string name="scg_wallpaper">Галерея</string>
+    <string name="weather_live_wallpaper">Живые погодные обои</string>
+    <string name="other_wallpaper">Другие обои</string>
+    <string name="live_wallpaper">Живые обои</string>
+    <string name="telecom_wallpaper">Telecom Обои</string>
+    <string name="enter_scg_wallpaper">Войти в галерею</string>
+    <string name="wallpreview_more">Больше</string>
+    <string name="wallpreview_cut">Обрезать</string>
+    <string name="wallpreview_cut_title">Выбор формата</string>
+    <string name="wallpreview_cut_desktop">Установка обоев для рабочего стола</string>
+    <string name="wallpreview_cut_lockscreen">Установка обоев для экрана блокировки</string>
+    <string name="wallpreview_preview">Предпросмотр</string>
+    <string name="wallpreview_apply">Применить</string>
+    <string name="lockscreen_preview">Предпросмотр экрана блокировки</string>
+    <string name="desktop_preview">Предпросмотр рабочего стола</string>
+    <string name="wallpreview_cut_error_bitmap">Не удается загрузить изображение</string>
+    <string name="login_success">Успешный вход</string>
+    <string name="login_fail">Ошибка входа</string>
+    <string name="login_cancel">Отменить вход</string>
+    <string name="download">Скачать</string>
+    <string name="update">Обновить</string>
+    <string name="buy">Купить</string>
+    <string name="login_wait">Входа в систему, пожалуйста, подождите...</string>
+    <string name="load_data">Загрузка...</string>
+    <string name="buy_timeout">Время ожидания сети истекло. Пожалуйста, попробуйте снова</string>
+    <string name="network_error_retry">Ошибка сети. Пожалуйста, попробуйте снова</string>
+    <string name="more">Еще</string>
+    <string name="no_sign">Нет значения подписи</string>
+    <string name="paysuccess">Успешная оплата</string>
+    <string name="paysuccess_nosign">Платеж успешен, но не прошла проверка подписи</string>
+    <string name="cancel_pay">Отмена оплаты</string>
+    <string name="pay_fail">Оплата не удалось</string>
+    <string name="order_fail">Номер заказа получает отказ, можно не платить.</string>
+    <string name="tab_category">Категории</string>
+    <string name="tab_discovery">Открытие</string>
+    <string name="tabs_topic">Новое</string>
+    <string name="tabs_personal">Личные</string>
+    <string name="wallpaperrecycled">Обои для рабочего стола были удалены, пожалуйста, выберите снова</string>
+    <string name="title_hottest_theme">Самые популярные темы</string>
+    <string name="title_hottest_background">Самые популярные обои</string>
+    <string name="title_more_detail">Показать все...</string>
+    <string name="title_more_hottest_theme">Популярные темы</string>
+    <string name="title_more_hottest_background">Популярные обои</string>
+    <string name="title_more_hottest_lockscreen">Популярные обои экрана блокировки</string>
+    <string name="title_more_hottest_font">Популярные шрифты</string>
+    <string name="title_more_hottest_animation">Популярные загрузочные экраны</string>
+    <string name="title_nowloading">Загрузка...</string>
+    <string name="title_dynamiclockscreen">Живые экраны блокировки</string>
+    <string name="title_ring">Мелодия</string>
+    <string name="title_font">Шрифты</string>
+    <string name="title_animation">Анимация при загрузке</string>
+    <string name="title_nomorecontent">Больше нет содержимого</string>
+    <string name="title_ad_loading">Загрузка...</string>
+    <string name="title_content_loading">Загрузка...</string>
+    <string name="title_content_reloading">Нажимайте на перезагрузить</string>
+    <string name="title_content_loading_failed">Не удалось загрузить</string>
+    <string name="title_lenovo_account">Добро пожаловать</string>
+    <string name="title_lenovo_account_other">Учетная запись:</string>
+    <string name="title_more_service">Дополнительные услуги</string>
+    <string name="title_login">Вход</string>
+    <string name="no_usage_history">Нет записи об использовании</string>
+    <string name="title_usage_history">Использующийся аккаунт:</string>
+    <string name="title_feedback">Обратная связь</string>
+    <string name="title_account_management">Управление аккаунтом</string>
+    <string name="crop_label">Обрезать</string>
+    <string name="title_used">Используется</string>
+    <string name="title_day">дней</string>
+    <string name="title_regist"><u>Зарегистрироваться</u></string>
+    <string name="title_now_login">Выполняется вход...</string>
+    <string name="title_about">Описание</string>
+    <string name="title_free">Бесплатно</string>
+    <string name="title_tab_category">Категории</string>
+    <string name="title_tab_great">Лучшее</string>
+    <string name="title_tab_topic">Новое</string>
+    <string name="title_tab_personal">Личные</string>
+    <string name="title_activity_mobile_connected_dialog">Диалог активности мобильный связи</string>
+    <string name="custom_theme_ring">Мелодия</string>
+    <string name="wallpaper_select_all">Все</string>
+    <string name="wallpaper_select_beauty">Девушки</string>
+    <string name="wallpaper_select_scenery">Пейзажи</string>
+    <string name="wallpaper_select_slight">Графика</string>
+    <string name="wallpaper_select_game">Игры</string>
+    <string name="wallpaper_select_video">Видео</string>
+    <string name="wallpaper_select_animal">Животные</string>
+    <string name="app_chname">Центр тем</string>
+    <string name="mobile_data_remind_message">Для Центра тем Lenovo нужен доступ в Интернет, стоимость передачи данных определяется Вашим оператором.</string>
+    <string name="toast_no_network">Не удается подключиться к сети</string>
+    <string name="mobile_network_dialog_hint">Вы используете сеть 2G/3G</string>
+    <string name="mobile_network_dialog_nexttime">Не напоминать</string>
+    <string name="mobile_network_dialog_btntext">ОК</string>
+    <string name="ptr_pull_to_refresh">Потяните вниз</string>
+    <string name="ptr_release_to_refresh">Отпустите</string>
+    <string name="ptr_refreshing">Загрузка...</string>
+    <string name="ptr_last_updated">Обновлено: %1$s</string>
+    <string name="internal_system">Внутренняя система</string>
+    <string name="categoryfragment_other">Другое</string>
+    <string name="in_the_end">Конец списка</string>
+    <string name="loading_failed">Загрузка не удалась</string>
+    <string name="dialog_crop_error_content">Выбранная картинка не подходит для обоев</string>
+    <string name="dialog_crop_error_titles">Картинка не подходит для обоев</string>
+    <string name="wallloadingtimeout">Время ожидания загрузки истекло, попробуйте позже</string>
+    <string name="dialog_download_error_titles">Ограничение сети</string>
+    <string name="dialog_download_error_content">Не возможно скачать изображение из-за ограничения сети</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="outof_memory">Изображение не подходит для обоев из-за своих больших размеров</string>
+    <string name="bitmap_failed">Файл повреждён</string>
+    <string name="bitmap_toosmall">Изображение не подходит для обоев из-за своего небольшого размера</string>
+    <string name="resource_file_missed">Ресурс не найден</string>
+    <string name="file_has_deleted">Изображение было удалено</string>
+    <string name="file_can_not_be_deleted">Изображение не загружено и не может быть удалено</string>
+    <string name="wallloadingnoreponse">Сеть не отвечает</string>
+    <string name="quit_title">Подсказка выхода</string>
+    <string name="quitjudge">Вы уверены, что хотите выйти?</string>
+    <string name="defaultwallpaper">Обои загружаются</string>
+    <string name="com_lenovo_lsf_app_name">UserFeamework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">OK</string>
     <string name="com_lenovo_lsf_lenovouser_btn_cancel">Отмена</string>
@@ -563,35 +1069,11 @@
     <string name="com_lenovo_lsf_account_manager">Управление Аккаунтами</string>
     <string name="com_lenovo_lsf_notification">Пароль Lenovo по-умолчанию:</string>
     <string name="lenovouser_quick_welcome">Добро пожаловать</string>
-    <string name="app_filter_class" />
-    <string name="app_name">Игры</string>
-    <string name="download">Загрузить</string>
-    <string name="percentage">%d%%</string>
-    <string name="downloading_game">Загрузка: %s</string>
-    <string name="download_complete">Загружено: %s</string>
-    <string name="download_completed">Загружено</string>
-    <string name="download_failure">Ошибка загрузки</string>
-    <string name="download_failed">Ошибка загрузки: %s</string>
-    <string name="download_failed_network">Ошибка загрузки: сеть недоступна</string>
-    <string name="network_wlan_only_message">Ошибка загрузки: Wi-Fi недоступен.</string>
-    <string name="no_download_url">НЕ могу получить URL для %s</string>
-    <string name="download_failed_storage">Ошибка загрузки: Не могу записать на SD карту</string>
-    <string name="install_failed">Ошибка установки</string>
-    <string name="install_game_failed">%s не установлен</string>
-    <string name="sdcard_space_warning_detail">Проблема записи может быть из-за ошибки в загрузке.</string>
-    <string name="btn_more">Другие игры</string>
-    <string name="recommend_fragment_install">Установить</string>
-    <string name="recommend_dialog_need">Да</string>
-    <string name="recommend_dialog_cancel">Нет</string>
-    <string name="recommend_dialog_not_delete">Нет</string>
-    <string name="recommend_dialog_delete">Удалить</string>
-    <string name="settings_create_folder">Создать папку \"Игры\"</string>
-    <string name="recommend_shake_yes">ОК</string>
-    <string name="recommend_shake_no_more_show">Не показывать</string>
-    <string name="recommend_grid_failed_btn_txt">Перезагрузить</string>
-    <string name="descr_image">Значок приложения</string>
-    <string name="recommend_game_center">Центр игр</string>
-    <string name="defaultwallpaper">Loading picture</string>
+    
+    
+    
+    
+    <string name="install_game_failed">%s Установка не удалась</string>
     <string name="tab_local">Локальные</string>
     <string name="local_restore">Локальное восстановление</string>
     <string name="local_backup">Локальная копия</string>
@@ -602,7 +1084,7 @@
     <string name="profile_applying_progress_info">Применение профиля. Ожидайте…</string>
     <string name="apply_profile">Применить профиль</string>
     <string name="no_profile_num">Нет профиля</string>
-    <string name="wallpaper_viewpager_settings_title">Проведите для смены Обоев</string>
+    <string name="wallpaper_viewpager_settings_title">Быстрая смена обоев</string>
     <string name="theme_appling_progress_info">Применение темы, ожидайте</string>
     <string name="theme_pkg_not_exist">Тема не существует!</string>
     <string name="auto_reorder_summary">При активации все иконки будт отсортированы в порядке открывания с левого верхнего угла</string>
@@ -642,15 +1124,21 @@
     <string name="dummy_app_search_not_found">Нет файла apk \"%1$s\" в магазине.</string>
     <string name="dummy_app_network_disable">Сеть отключена.</string>
     <string name="app_not_uninstall">Невозможно установить</string>
+    <string name="theme_apply_msg">Применение тему...</string>
+    <string name="theme_apply_done_success">Тема успешно установлена</string>
+    <string name="theme_apply_done_failure">Ошибка установки темы</string>
+    <string name="settings_title_shadow">Тень имени приложения</string>
+    <string name="settings_title_settings_category">Настройки</string>
+    <string name="settings_title_color">Цвет текста</string>
     <string name="pref_default_theme">>DEFAULT THEME</string>
-    <string name="pref_switchwidget_text">"     "</string>
-    <string name="prefDefault_workspaceSlide">НЕТ</string>
-    <string name="pref_scroll_up_guesture_default_overseas">Меню</string>
-    <string name="pref_scroll_up_guesture_default">Позиционирование</string>
-    <string name="pref_scroll_down_guesture_default">Уведомление</string>
-    <string name="pref_double_click_guesture_default">Не указано</string>
-    <string name="prefDefault_icon_text_size">Стандартный</string>
-    <string name="component">Лаунчер</string>
+    <string name="pref_switchwidget_text" />
+    <string name="prefDefault_workspaceSlide">NONE</string>
+    <string name="pref_scroll_up_guesture_default_overseas">menu</string>
+    <string name="pref_scroll_up_guesture_default">Positioning</string>
+    <string name="pref_scroll_down_guesture_default">notification</string>
+    <string name="pref_double_click_guesture_default">none</string>
+    <string name="prefDefault_icon_text_size">NORMAL</string>
+    <string name="component">launcher</string>
     <string name="reserved_profile_name_for_default_profile">标准:Default Scene:標準:Standar:Стандарт:Chuẩn</string>
     <string name="preview_page_scroll_format">Просмотр страницы %1$d из %2$d</string>
     <string name="preview_page_delete_this_preview_page">Удалить страницу</string>
@@ -659,61 +1147,27 @@
     <string name="uninstall_the_application">Удалить приложение</string>
     <string name="xfolder_delete_this_folder">Удалить папку</string>
     <string name="launcher_app_widget_view_delete_this_widget">Удалить виджет</string>
-    <string name="application_name">Lenovo Launcher</string>
+    <string name="pref_title_color_default_value">тема</string>
+    <string name="application_name">Lenovo Лаунчер</string>
     <string name="home">Главный экран</string>
-    <string name="uid_name">Основные приложения Android</string>
     <string name="folder_name">Без имени</string>
-    <string name="wallpaper_instructions">Установить как обои</string>
-    <string name="wallpaper_accessibility_name">Обои %1$d из %2$d</string>
-    <string name="announce_selection">Выбран элемент \"%1$s\"</string>
-    <string name="wallpaper_delete">Удалить</string>
-    <string name="pick_image">Выбрать изображение</string>
-    <string name="pick_wallpaper">Обои</string>
-    <string name="crop_wallpaper">Обрезать обои</string>
     <string name="widgets_tab_label">Виджеты</string>
-    <string name="widget_adder">Виджеты</string>
     <string name="toggle_weight_watcher">Сведения о памяти</string>
     <string name="long_press_widget_to_add">Чтобы выбрать виджет, нажмите на значок и удерживайте его.</string>
     <string name="market">Google Play</string>
     <string name="widget_dims_format">%1$d x %2$d</string>
-    <string name="external_drop_widget_error">Не удалось добавить элемент на главный экран</string>
-    <string name="external_drop_widget_pick_title">Выберите виджет</string>
-    <string name="rename_folder_label">Название папки</string>
-    <string name="rename_folder_title">Переименование папки</string>
+    
     <string name="rename_action">ОК</string>
-    <string name="cancel_action">Отмена</string>
-    <string name="menu_item_add_item">Добавление на главный экран</string>
     <string name="group_applications">Приложения</string>
-    <string name="group_shortcuts">Ярлыки</string>
-    <string name="group_widgets">Виджеты</string>
-    <string name="completely_out_of_space">На главных экранах все занято</string>
     <string name="out_of_space">Нет места</string>
     <string name="hotseat_out_of_space">Панель заполнена!</string>
-    <string name="invalid_hotseat_item">Виджет слишком велик для слота</string>
-    <string name="shortcut_installed">Ярлык \"%s\" создан</string>
     <string name="shortcut_uninstalled">Ярлык \"%s\" удален</string>
     <string name="shortcut_duplicate">Создан ярлык: «%s»</string>
-    <string name="title_select_shortcut">Выбор ярлыка</string>
-    <string name="title_select_application">Выбор приложения</string>
+    <string name="title_select_application">Выберите приложение</string>
     <string name="all_apps_button_label">Приложения</string>
     <string name="all_apps_home_button_label">Главный экран</string>
-    <string name="delete_zone_label_workspace">Удалить</string>
-    <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_target_label">Удалить</string>
     <string name="delete_target_uninstall_label">Удалить</string>
-    <string name="info_target_label">О приложении</string>
-    <string name="accessibility_search_button">Поиск</string>
-    <string name="accessibility_voice_search_button">Голосовой поиск</string>
-    <string name="accessibility_all_apps_button">Приложения</string>
-    <string name="accessibility_delete_button">Удалить</string>
-    <string name="delete_zone_label_all_apps_system_app">Удалить обновления</string>
-
-    <string name="cab_menu_delete_app">Удалить приложение</string>
-    <string name="cab_menu_app_info">О приложении</string>
-    <string name="cab_app_selection_text">Выбрано 1 приложение</string>
-    <string name="cab_widget_selection_text">Выбран 1 виджет</string>
-    <string name="cab_folder_selection_text">Выбрана 1 папка</string>
-    <string name="cab_shortcut_selection_text">Выбран 1 ярлык</string>
     <string name="permlab_install_shortcut">Создание ярлыков</string>
     <string name="permdesc_install_shortcut">Приложение сможет самостоятельно добавлять ярлыки.</string>
     <string name="permlab_uninstall_shortcut">Удаление ярлыков</string>
@@ -724,43 +1178,19 @@
     <string name="permdesc_write_settings">Приложение сможет изменять настройки и ярлыки на главном экране.</string>
     <string name="gadget_error_text">Не удалось загрузить виджет</string>
     <string name="uninstall_system_app_text">Это системное приложение, его нельзя удалить.</string>
-    <string name="dream_name">Rocket Launcher</string>
     <string name="folder_hint_text">Папка без названия</string>
-    <string name="workspace_description_format">Главный экран %1$d</string>
     <string name="default_scroll_format">Стр. %1$d из %2$d</string>
     <string name="workspace_scroll_format">Главные экран %1$d из %2$d</string>
     <string name="apps_customize_apps_scroll_format">Приложения: стр. %1$d из %2$d</string>
     <string name="apps_customize_widgets_scroll_format">Виджеты: стр. %1$d из %2$d</string>
-    <string name="first_run_cling_title">Добро пожаловать!</string>
-    <string name="first_run_cling_description">Будьте как дома</string>
-    <string name="first_run_cling_custom_content_hint" />
-    <string name="first_run_cling_search_bar_hint" />
-    <string name="first_run_cling_create_screens_hint">Создание дополнительных экранов для приложений и папок</string>
-    <string name="workspace_cling_title">Организация рабочего пространства</string>
-    <string name="workspace_cling_move_item">Чтобы перейти к управлению обоями, виджетами и настройками, нажмите на фоновое изображение и удерживайте его.</string>
-    <string name="all_apps_cling_title">Выберите приложения</string>
-    <string name="all_apps_cling_add_item">Чтобы добавить приложение на главный экран, нажмите на значок и удерживайте его.</string>
-    <string name="folder_cling_title">Это папка</string>
-    <string name="folder_cling_create_folder">Чтобы создать папку, нажмите и удерживайте значок приложения, а затем перетащите его на другой значок.</string>
-    <string name="cling_dismiss">ОК</string>
-    <string name="dummy_custom_cling_error_message">Ошибка: рабочее пространство настроено, но некоторые элементы не будут перезаписаны</string>
     <string name="folder_opened">Папка открыта, %1$d x %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы подтвердить переименование</string>
     <string name="folder_closed">Папка закрыта</string>
     <string name="folder_renamed">Папка переименована в \"%1$s\"</string>
     <string name="folder_name_format">Папка: %1$s</string>
-    <string name="custom_workspace_cling_title_1" />
-    <string name="custom_workspace_cling_description_1" />
-    <string name="custom_workspace_cling_title_2" />
-    <string name="custom_workspace_cling_description_2" />
-
-    <string name="widget_button_text">Виджеты</string>
-    <string name="wallpaper_button_text">Настройка темы</string>
+    
     <string name="settings_button_text">Настройки</string>
-    <string name="theme_appling_success">Тема успешно применена</string>
-    <string name="popup_menu_flick">Щелчок</string>
-    <string name="popup_menu_snake">Змея</string>
     <string name="normal_settings">Общие параметры</string>
     <string name="wallpaper_slide_settings_title">Прокрутка обоев</string>
     <string name="workspace_loop_on">Включено</string>
@@ -768,7 +1198,7 @@
     <string name="settings_feedback_title">Отзыв</string>
     <string name="workspace_slide_settings_title">Анимация рабочего стола</string>
     <string name="workspace_loop_settings_title">Круговое листание столов</string>
-    <string name="menu_sense_settings">Архивация и восстановление сюжета</string>
+    <string name="menu_sense_settings">Архивация/восстановление сюжета</string>
     <string name="more_settings_title">Другие параметры</string>
     <string name="about_lenovo_desktop_settings_title">О программе</string>
     <string name="about_lenovo_desktop_settings">О программе Lenovo Launcher</string>
@@ -798,39 +1228,38 @@
     <string name="feedback_sent_succeed">Отправлено. Благодарим за помощь!</string>
     <string name="feedback_sent_failed">Сбой отправки. Повторите попытку...</string>
     <string name="gesture_settings_title">Настройки жестов</string>
-    <string name="scroll_up_gesture_setting">Пролистнуть вверх</string>
-    <string name="scroll_down_gesture_setting">Пролистнуть вниз</string>
-    <string name="double_click_gesture_setting">Двойной щелчок на пустом месте</string>
+    <string name="scroll_up_gesture_setting">Слайд вверх</string>
+    <string name="scroll_down_gesture_setting">Слайд вниз</string>
+    <string name="double_click_gesture_setting">Двойное нажатие на пустом месте</string>
     <string name="network_enabler_summary">Разрешить доступ к данным через сеть</string>
     <string name="network_enabler_title">Переключатель трафика</string>
     <string name="lejingpin_settings_title">Параметры загрузки</string>
     <string name="launcher_default_verion">Версия разработчика</string>
     <string name="launcher_beta_verion">Заводская бета-версия Lenovo</string>
-    <string name="network_settings_title">Desktop enable mobile network</string>
-    <string name="launcher_network_settings_summary">Desktop will not have mobile data traffic after closing</string>
-    <string name="network_settings_category_title">The following function allows the mobile network</string>
-    <string name="recommend_network_settings_title">Application recommendations and downloads</string>
-    <string name="recommend_network_settings_summary">Use mobile network recommendations and download new applications</string>
-    <string name="theme_network_settings_title">Themes and wallpapers</string>
-    <string name="theme_network_settings_summary">Use mobile network download theme and wallpaper</string>
+    <string name="network_settings_title">Лаунчер включ. мобильн. интернет</string>
+    <string name="launcher_network_settings_summary">Лаунчер не придется мобильного трафика после закрытия</string>
+    <string name="network_settings_category_title">Следующая функция включает использ. моб. интернета</string>
+    <string name="recommend_network_settings_title">Рекомендации по применению и загрузок</string>
+    <string name="recommend_network_settings_summary">Используйте рекомендации моб. сети и загружайте новые приложения</string>
+    <string name="theme_network_settings_title">Темы и обои</string>
+    <string name="theme_network_settings_summary">Используйте моб. интернет для скачивания тем и обоев</string>
     <string name="menu_add">Добавить</string>
     <string name="menu_theme_settings">Темы</string>
     <string name="menu_wallpaper">Обои</string>
     <string name="menu_screen_setting">Рабочие столы</string>
     <string name="menu_desktop_settings">Параметры</string>
-    <string name="menu_settings">Настройки</string>
     <string name="no_recent_task">Нет недавно использованных приложений</string>
     <string name="apptask_tab_label">Недавно использованные</string>
     <string name="btn_ok">ОК</string>
     <string name="btn_cancel">Отмена</string>
     <string name="folder_editor_hint">Введите имя папки</string>
-    <string name="dockview_out_of_space">Полностью</string>
+    <string name="dockview_out_of_space">Заполнено</string>
     <string name="cannot_be_placed_on_dockview_folder">Не удается переместить группу папок</string>
     <string name="cannot_be_placed_on_dockview">Не удается переместить группу виджетов</string>
     <string name="cannot_be_moved_to_dockview">Действие не выполнено</string>
-    <string name="auto_reorder_title">Авто-сортировка значков рабочего стола</string>
-
-
+    <string name="auto_reorder_title">Автосортировка значков</string>
+    
+    
     <string name="editmode_uninstall_info">Удалить приложение \"%1$s\"?</string>
     <string name="editmode_remove_quickentry">Удалить ярлык \"%1$s\"?</string>
     <string name="editmode_uninstall_confirm">ОК</string>
@@ -846,33 +1275,102 @@
     <string name="search_no_data">Нет результатов</string>
     <string name="search_now_title">Возможно, вы ищете:</string>
     <string name="search_by_T9">Используйте T9 для быстрого поиска приложения</string>
-    <string name="search_settings_title">Значок поиска</string>
+    <string name="search_settings_title">Поиск ярлыка</string>
     <string name="t9_search_delete_history"><u>Очистить историю</u></string>
     <string name="confirm_delete_folder">Удалить эту папку?</string>
     <string name="chooser_wallpaper">Выберите источник фонового рисунка</string>
+    <string name="auto_workspace_classification_title">Приложения автоматически классифиц.</string>
+    <string name="auto_workspace_classification_summary">Вновь установленное приложение автоматически классифицир.по папкам</string>
+    <string name="pref_workspace_classification">Категории</string>
+    <string name="pref_workspace_classification_summary">Приложения немедленно организов. в папку Категории</string>
+    <string name="workspace_classifyapps_title">Категории</string>
+    <string name="close_apps_aotu_classify">При выключении, недавно установленные приложения не будут автоматически организованы в соответствующей папке</string>
+    <string name="classfication_no_more_space">Недостаточно места на экране</string>
+    <string name="application_existed_in_folder">Приложение уже в папке</string>
+    <string name="classfication_no_application">не нужно организовать приложения!</string>
+    <string name="category_game">Игры</string>
+    <string name="category_reading">Развлечения Чтение</string>
+    <string name="category_traffic">Навигация</string>
+    <string name="category_news">Новости</string>
+    <string name="category_life">Услуги</string>
+    <string name="category_social">Социальные связи</string>
+    <string name="category_av">Видео Аудио</string>
+    <string name="category_system">Системные</string>
+    <string name="category_office">Офис Финансы</string>
+    <string name="category_education">Образование</string>
+    <string name="category_more">Другие приложения</string>
+    <string name="category_short_game">Игры</string>
+    <string name="category_short_reading">Чтение</string>
+    <string name="category_short_traffic">Трафик</string>
+    <string name="category_short_news">Новости</string>
+    <string name="category_short_life">Жизнь</string>
+    <string name="category_short_social">Социальные</string>
+    <string name="category_short_av">AV</string>
+    <string name="category_short_system">Инструменты</string>
+    <string name="category_short_office">Офис</string>
+    <string name="category_short_education">Образование</string>
+    <string name="category_short_more">Другие приложения</string>
+    <string name="and">" И "</string>
+    <string name="app_categroy">Пожалуйста подождите</string>
+    <string name="apps_category_shortcut">программы (категория)</string>
+    <string name="apps_autocategory">Программы (Авто Категория)</string>
+    <string name="apps_alphacategory">Программы (Альфа Категория)</string>
+    <string name="apps_cardcategory">Программы (Категория карты)</string>
+    <string name="jizhuusername">Запомнить имя пользователя</string>
+    <string name="autologin">автовход</string>
+    <string name="register">регистр.</string>
+    <string name="login">Вход</string>
+    <string name="logout">Выход</string>
+    <string name="pinputusernamepw">пожалуйста, введите имя и PW!!!</string>
+    <string name="pwStr_digits">0123456789abcdefghijklmnopqrstuvwxyzQWERTYUIOPASDFGHJKLZXCVBNM_</string>
     <string name="other_widgets">Другие виджеты</string>
     <string name="lock_label">Блокировка одной клавишей</string>
-	<string name="default_game_folder_title">Игры</string>
-    <string name="content_game_scan_dialog">Папка \"Игры\" создана. Поместить все установленные игры в эту папку?</string>
+    <string name="default_game_folder_title">Игры</string>
+    <string name="title_first_open_gamefolder_dialog">Папка Игры</string>
+    <string name="content_first_open_gamefolder_dialog">Добро пожаловать! В папке с игрой мы можем помочь вам собрать все игры на телефоне и порекомендовать забавную игру. Давай играть!</string>
+    <string name="title_game_scan_dialog">Вы создали папку Игры, Вы хотите, чтобы установленные игры были автоматически туда помещены?</string>
+    <string name="content_game_scan_dialog">Папка с играми,для автомат. организации игр, но также порекомендует самые последние лучшие игры.</string>
+    <string name="btn_ok_game_scan_dialog">Использ.</string>
+    <string name="title_how_to_create_gamefolder_dialog">Некоторые игры не исчезнут</string>
+    <string name="content_how_to_create_gamefolder_dialog">Любое использование папку игры, вы можете найти меня в настройках рабочего стола с настройками.</string>
+    <string name="btn_ok_how_to_create_gamefolder_dialog">Показать</string>
+    <string name="title_create_gamefolder_dialog">Папка с играми</string>
+    <string name="content_create_gamefolder_dialog">На раб.столе в настоящее время нет папки игры, хотите создать?</string>
+    <string name="btn_ok_create_gamefolder_dialog">Создать для меня</string>
     <string name="recommend_install_inprogress">Установка</string>
+    <string name="title_disable_recommend_app_dialog">Реком. игры</string>
     <string name="content_disable_recommend_app_dialog">Вы отключаете уведомления о рекомендуемых играх. Вы можете повторно включить эту функцию в настройках рабочего стола. Отключить рекомендации?</string>
+    <string name="btn_ok_disable_recommend_app_dialog">Закрыть</string>
+    <string name="btn_cancel_disable_recommend_app_dialog">Я знаю</string>
     <string name="game_folder_settings_title">Папка \"Игры\"</string>
     <string name="auto_push_recommend_game_settings_title">Рекомендовать новые игры</string>
-    <string name="allow_download_use_3g_settings_title">Разрешить использование мобильной передачи данных для загрузки</string>
-    <string name="install_failed_storage">%s установка прервалась, т.к. не хватате места в телефоне, попытайтесь ещё раз или удалите.</string>
-    <string name="title_enable_gamefolder_dialog">Папка с играми</string>
-    <string name="content_enable_gamefolder_dialog">Действительно ли включить игровые функции, чтобы всегда знать о появлении новых игр?</string>
+    <string name="install_failed_storage">%s не удалось установить, из-за нехватки места, попробуйте еще раз, либо удалить ее.</string>
+    <string name="content_first_confirm_3g_download_dialog">Эта игра будет потреблять много трафика через мобильный интернет. Рекомендуется установить при подключении к Wi-Fi.</string>
+    <string name="content_normal_confirm_3g_download_dialog">Вы в настоящее время не подключен к WiFi. Чтобы немедленно начать загрузку используйте мобильным сеть.</string>
+    <string name="allow_download_use_3g_dialog_checkbox">Разрешить загрузку через мобильную сеть (Настройки могут быть изменнены)</string>
+    <string name="gamefolder_install">Установка</string>
+    <string name="gamefolder_error_net_no_connect">Будет автоматически загружать при подключении к WiFi.</string>
+    <string name="gamefolder_error_net_no_3g">Сбой подключения, он будет автоматически загружать сетевое подключение.</string>
+    <string name="gamefolder_download_error">Загрузка не удалась, попробуйте еще раз позже.</string>
+    <string name="install_gamecenter_title">Установка Игрового центра</string>
+    <string name="installing_gamecenter">Загрузка Игрового центра</string>
+    <string name="content_install_gamecenter_dialog">Игровой центр - необходимое приложение для ежедневной популярной игры-новинки.</string>
+    <string name="allow_gather_games_settings_title">Смарт организация игр</string>
+    <string name="allow_resume_3g_download_title">Скачать игру</string>
+    <string name="content_allow_resume_3g_download_dialog">Вы не подключены к WiFi, ипользовать моб. интернет для закачки игры? Оплата взимается оператором.</string>
+    <string name="btn_ok_allow_resume_3g_download">Скачать</string>
+    <string name="gamecenter_freeze">Game Center был заморожен, невозможно запустить</string>
     <string name="dummy_installed_app_ok">ОК</string>
     <string name="dummy_notinstalled_app_cancel">Отмена</string>
+    <string name="dummy_widget_to_update">"Нажмите этот виджет для привязки\"%1$s\" "</string>
+    <string name="dummy_app_download_sd_unmounted">Внешние накопители размонтирован !</string>
+    <string name="theme_center_process">com.lenovo.launchertheme</string>
     <string name="mobile_data_remind_ok">Продолжить</string>
     <string name="mobile_data_remind_quite">Отмена</string>
     <string name="mobile_data_remind_title">Мобильный трафик, советы</string>
     <string name="mobile_data_remind_nexttime">Не уведомлять до следующего раза</string>
-    <string name="mobile_data_remind_message">Используя поиск тем или обоев, будет потребляться сетевой трафик, рекомендуем вам сначала подключить сеть Wi-Fi или вы желаете продолжить?</string>
-    <string name="theme_apply_msg">Примеенние темы ...</string>
-    <string name="theme_apply_done_success">Применение успешно</string>
-    <string name="theme_apply_done_failure">Ошибка применения!</string>
-    <string name="cloud_login_cancel">Перевойдите</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="cloud_login_cancel">Вы не вошли, повторите</string>
     <string name="result_ok">OK</string>
     <string name="result_retry">Повторить</string>
     <string name="result_continue">Продолжить</string>
@@ -880,11 +1378,6 @@
     <string name="result_hide">Скрыть</string>
     <string name="result_backup">Резервное копирование</string>
     <string name="result_restore">Восстановить</string>
-    <string name="apply">Применить</string>
-    <string name="wallpreview_preview">Предпросмотр</string>
-    <string name="wallapply">Применить</string>
-    <string name="wallsetsuccess">Успех</string>
-    <string name="dialog_crop_error_titles">Ошибка</string>
     <string name="title_bar_custom_theme">Тема</string>
     <string name="title_bar_custom_wallpaper">Обои</string>
     <string name="SUS_ERROR_CURRENT_VERSION">Не удается получить данные о текущей версии Lenovo Лаунчера.</string>
@@ -917,7 +1410,7 @@
     <string name="notify_backup_firstly">Сначала выполните резервное копирование сюжета.</string>
     <string name="profile_time_stamped_restore">Сохранено:</string>
     <string name="picking_wallpaper">Извлечение фона...</string>
-   <string name="make_target_file">Создание целевого сюжета ...</string>
+    <string name="make_target_file">Создание целевого сюжета ...</string>
     <string name="extracter_exracting">Извлечение...</string>
     <string name="relaunch_launcher">Перезапуск потока Lenovo Launcher...</string>
     <string name="backup_extract_settings">Извлечение параметров...</string>
@@ -950,22 +1443,8 @@
     <string name="backup_preference_before_yesterday">Позавчера</string>
     <string name="smooth_mode">Простая анимация</string>
     <string name="smooth_summary">Использовать простую анимацию (для моделей начального уровня)</string>
-    <string name="wallpaper_static">Статичные</string>
-    <string name="wallpaper_live">Живые</string>
-    <string name="wallpreview_cut_title">Настройки обрезки</string>
-    <string name="wallperviewcutwallpaper">Рабочий стол</string>
-    <string name="wallperviewcutlocksreenpaper">Экран блокировки</string>
-    <string name="dialog_download_error_titles">Ошибка сети</string>
-    <string name="dialog_download_error_content">Ошибка подключения к сети. Невозможно загрузить изображение</string>
-    <string name="wallperviewsetting">Установка…</string>
-    <string name="dialog_crop_error_content">Это изображение не подходит для использования в качестве обоев</string>
-    <string name="desktop_preview">Просмотр рабочего стола</string>
-    <string name="lockscreen_preview">Просмотр экрана блокировки</string>
     <string name="title_bar_custom_theme_detail">Подробности темы</string>
     <string name="theme_appling_progress">Применение темы…</string>
-    <string name="settings_title_shadow">Тень</string>
-    <string name="settings_title_settings_category">Настройки заголовков</string>
-    <string name="settings_title_color">Цвет текста</string>
     <string name="download_already_inlist_running">Загрузка…</string>
     <string name="desktop_backup_file">Файл рез.копии рабочего стола</string>
     <string name="cloud_restore_download_cancel">Отмена загрузки</string>
@@ -1010,5 +1489,4 @@
     <string name="cloud_restore_download_ok_title">Загрузка завершена. Нажмите, чтобы восстановить рабочий стол</string>
     <string name="cloud_restore_download_error_title">Ошибка загрузки. Повторить или отменить?</string>
     <string name="cloud_login_exception">Сервер не в порядке, попробуйте позже</string>
-    <string name="dummy_app_notinstalled_message">Похоже, приложение удалено. Помочь восстановить его？</string>
 </resources>

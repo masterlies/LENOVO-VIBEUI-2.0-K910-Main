@@ -1,62 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lenovo_about">О программе</string>
-    <string name="lenovo_about_update">Обновить</string>
-    <string name="lenovo_about_update_now">Обновить сейчас!</string>
-    <string name="lenovo_about_versoin">Доступна новая версия</string>
-    <string name="lenovo_about_qqgroup">Группа QQ</string>
-    <string name="lenovo_about_weibo">Sina Weibo</string>
-    <string name="lenovo_about_email">Эл. почта</string>
-    <string name="lenovo_about_unsupport">Не поддерживается в данный момент. Подождите!</string>
-    <string name="lenovo_about_divider">": "</string>
-    <string name="lenovo_about_AboutInfoCopyRight_Cn">联想公司 版权所有</string>
-    <string name="lenovo_about_AboutInfoCopyRight_En">Copyright © 2014 Lenovo All Rights Reserved</string>
 
 
 
-    <string name="ab_version_introduction">Знакомство с функциями</string>
-    <string name="ab_contacts">Метод контакта</string>
-    <string name="ab_feedback">Отзыв</string>
-    <string name="ab_checking_update">Проверка обновлений...</string>
-    <string name="ab_downloading_update">Загрузка обновлений...</string>
-    <string name="ab_website">Официальный веб-сайт</string>
-    <string name="ab_patch_update">Обновление сокращения трафика</string>
 
 
 
-    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Включите Wi-Fi!</string>
-    <string name="SUS_MSG_LATESTVERSION">Установлена текущая версия!</string>
-    <string name="SUS_MSG_NOTFOUND">Нет обновлений!</string>
-    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Сеть недоступна!</string>
-    <string name="SUS_MSG_WARNING_PENDING">Обновляется в данный момент!</string>
-    <string name="SUS_MSG_DOWNLOADCOMPLETE">Загрузка завершена!</string>
-    <string name="SUS_MSG_UPDATE_EXCEPTION">Ошибка обновления. Повторите попытку!</string>
-    <string name="SUS_SETTINGS_NEVERPROMPT">Не предлагать</string>
-    <string name="SUS_SETTINGS_NEWVERPROMPT">Предлагать при обнаружении новой версии</string>
-    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Недостаточно места на устройстве хранения!</string>
-    <string name="SUS_VERSIONUPDATE">Найдена новая версия!</string>
-    <string name="SUS_UPDATEDESC">Описание:</string>
-    <string name="SUS_UPDATEVERPROMPT_VERNAME">Имя:</string>
-    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Размер:</string>
-    <string name="SUS_UPDATESIZEPROMPT_WLAN">Для загрузки рекомендуется Wi-Fi!</string>
-    <string name="SUS_UPDATE">Обновить</string>
-    <string name="SUS_CANCEL">Позже</string>
-    <string name="SUS_DOWNLOAD_TITLE">Идет загрузка IdeaFriend!</string>
-    <string name="SUS_CANCELBUTTON">Отмена</string>
-    <string name="SUS_NOTIFICATION_TITLE">Подсказка</string>
-    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Обновление... Подождите!</string>
-    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Тайм-аут сети. Еще раз...</string>
-    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">ОК</string>
-    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Прервать</string>
-    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Это диалоговое окно будет скрыто через</string>
-    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">с.)</string>
-    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Коснитесь для установки!</string>
-    <string name="SUS_NOTIFICATION_INSTALLAPK">Коснитесь для установки:</string>
-    <string name="SUS_CURRENT_VERSION">Текущая версия</string>
-    <string name="SUS_NEW_VERSION">Последняя версия</string>
-    <string name="SUS_FIND_NEW_VERSION">Доступна новая версия для вас</string>
-    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Теперь установите apk.</string>
-    <string name="SUS_BTN_UPDATINGPROMPT">Выполняется обновление...</string>
+
     <string name="usb_storage_activity_title">USB-накопитель</string>
     <string name="instant_notification">Уведомления</string>
     <string name="ongoing_notification">Выполняется</string>
@@ -65,7 +15,7 @@
     <string name="China_Telecom">China Telecom</string>
     <string name="cardTypeSIM">SIM</string>
     <string name="cardTypeUIM">UIM</string>
-    <string name="carrierText_default">Сеть не найдена.</string>
+    <string name="carrierText_default">@string/lockscreen_carrier_default</string>
     <string name="carrierText_airplaneMode">@string/status_bar_settings_airplane</string>
     <string name="carrierText_missingCard">Нет карты %s</string>
     <string name="carrierText_notActive">Карта %s отключена</string>
@@ -78,7 +28,7 @@
     <string name="icon_type_earphone">Гарнитура</string>
     <string name="icon_type_clock">Сигнал</string>
     <string name="icon_type_voice">Громкость</string>
-    <string name="icon_type_wifi">Wifi</string>
+    <string name="icon_type_wifi">Wi-Fi</string>
     <string name="icon_type_signal">Сигнал</string>
     <string name="icon_type_battery">Батарея</string>
     <string name="icon_type_bluetooth">Bluetooth</string>
@@ -140,7 +90,6 @@
     <string name="bluetooth_input_device_name">Устройство ввода Bluetooth</string>
     <string name="bluetooth_device_name_unknow">Неизвестное устройство</string>
     <string name="global_actions_toggle_airplane_mode">Автономный режим</string>
-    <string name="lockscreen_carrier_default">Сеть не найдена</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Не удается использовать SIM-карту.</string>
     <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
@@ -215,8 +164,9 @@
     <string name="lenovo_charge_completed_msg_sub_title">Отсоедините зарядное устройство</string>
     <string name="lenovo_low_battery_charge_message">жайте его с помощью зарядного устройства, поставляемого в комплекте.</string>
     <string name="lenovo_unknow_stytle">Неизвестный тип</string>
-    <string name="widget_text_night_mode">Ночной режим</string>
+    <string name="widget_text_night_mode">Ночной</string>
     <string name="lenovo_screenshot_paint">Каракули</string>
+    <string name="lockscreen_carrier_default">Сеть не найдена</string>
     <string name="lenovo_status_bar_flashlight">Щелкните для закрытия вспышки</string>
     <string name="widget_text_apn_apn">apn</string>
     <string name="widget_text_apn_ctwap">ctwap</string>
@@ -226,6 +176,7 @@
     <string name="widget_text_apn_cmwap">cmwap</string>
     <string name="widget_text_apn_cmnet">cmnet</string>
     <string name="widget_text_apn_ctlte">ctlte</string>
+    <string name="widget_text_power_super">S-Питание</string>
     <string name="sim_switch_business_type_default">Настройка основной SIM-карты</string>
     <string name="sim_switch_business_type_voice_call">Параметры голосового вызова на основной SIM-карте</string>
     <string name="sim_switch_business_type_message">Настройка сообщения для основной SIM-карты</string>
@@ -281,6 +232,7 @@
     <string name="lenovo_recents_clear_memory_toast_text">"Освобождено %1$s МБ памяти
 Доступно %2$s МБ памяти"</string>
     <string name="lenovo_recents_no_app_toast_test">Память освобождена</string>
+
     <string name="notification_quick_switch_settings">Панель уведомлений</string>
     <string name="show_battery_power_percentage_title">Показывать индикатор аккумулятора</string>
     <string name="app_notification_manager">Менеджер уведомлений</string>
@@ -397,7 +349,7 @@
     <string name="status_bar_settings_auto_brightness_label">АВТО</string>
     <string name="accessibility_data_connection_1x">1 X</string>
     <string name="accessibility_data_connection_hspa">HSPA</string>
-    <string name="accessibility_data_connection_3.5g">3,5G</string>
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_quick_settings_wifi">%2$s: %1$s</string>
@@ -431,6 +383,7 @@
     <string name="data_connection_connected">Соединение для передачи данных SIM-карты [%s] включено</string>
     <string name="gemini_intenet_call">Интернет-вызов</string>
     <string name="gemini_default_sim_never">Выкл.</string>
+
     <string name="gemini_3g_disable_warning">В выбранной SIM-карте отсутствует поддержка услуги 3G. Это может привести к замедлению загрузки данных. Параметры услуги 3G можно изменить в меню Параметры > Беспроводные подключения и сети > Сети мобильной связи.</string>
     <string name="gemini_3g_disable_warning_cu">В выбранной SIM-карте отсутствует поддержка услуги 3G. Это может привести к замедлению загрузки данных. Параметры услуги 3G можно изменить в меню Параметры > Беспроводные подключения и сети > Управление SIM-картами.</string>
     <string name="gemini_3g_disable_warning_case0">Для данной SIM-карты сначала следует включить роуминг данных, что может повлечь значительное повышение стоимости передачи данных! Включить режим роуминга и выбрать данную SIM-карту?</string>
@@ -487,6 +440,7 @@
     <string name="status_bar_settings_auto_rotation">Автоповорот экрана</string>
     <string name="status_bar_settings_mute_label">ВЫКЛ.</string>
     <string name="status_bar_settings_notifications">Уведомления</string>
+
     <string name="status_bar_network_name_separator">" – "</string>
     <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
@@ -592,12 +546,12 @@
     <string name="accessibility_quick_settings_user">Пользователь %s</string>
     <string name="accessibility_quick_settings_mobile">Мобильная сеть: %3$s (%2$s, %1$s)</string>
     <string name="accessibility_quick_settings_battery">Батарея: %s</string>
-    <string name="accessibility_quick_settings_airplane">Режим полёта %s</string>
+    <string name="accessibility_quick_settings_airplane">Режим полета %s</string>
     <string name="accessibility_quick_settings_alarm">Будильник установлен на %s</string>
     <string name="close_universe">Закрыть</string>
     <string name="start_dreams">Заставка</string>
     <string name="ethernet_label">Ethernet</string>
-    <string name="quick_settings_airplane_mode_label">Режим полёта</string>
+    <string name="quick_settings_airplane_mode_label">Режим полета</string>
     <string name="quick_settings_battery_charging_label">%d%%</string>
     <string name="quick_settings_battery_charged_label">Заряжено</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -627,6 +581,7 @@
     <string name="airplanemode_enable">Режим полёта</string>
     <string name="notification_item_op_clear">Очистить</string>
     <string name="app_disable_notifications_dlg_title">Отключить уведомления?</string>
+
     <string name="app_name">По умолчанию</string>
     <string name="lenovo_adapter_new_sim">Новая SIM</string>
     <string name="clearDefaultHintMsg">Удаляет настройки по умолчанию в меню \"Настройки > Приложения > Загруженные\".</string>
@@ -653,12 +608,17 @@
     <string name="lenovo_theme">Тема</string>
     <string name="lenovo_theme_classics">По умолчанию</string>
     <string name="lenovo_low_battery_warning_shut_down_text">Выкл.</string>
+
     <string name="lenovo_dlg_ok">ОК</string>
     <string name="lenovo_dlg_cancel">Отмена</string>
-    <string name="automatic_brightness">Автоматическая настройка яркости</string>
+    <string name="automatic_brightness">Автоматическая настройка</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable">Без обнаружения по другим устройствам Bluetooth</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable_2">Обнаружение по парам устройств</string>
     <string name="lenovo_status_bar_bluetooth_scan_mode_connectable_discoverable">Обнаружение по аксессуарам Bluetooth</string>
+    <string name="lenovo_status_bar_phone_going_in_lockscreen">Вызов</string>
+    <string name="lenovo_status_bar_car_mode_going_in_lockscreen">Режим Драйв.</string>
+    <string name="lenovo_status_bar_sound_recorder_going_in_lockscreen">Запись</string>
+    <string name="lenovo_status_bar_flashlight_in_lockscreen">Фонарик</string>
     <string name="turn_on_data">Включить</string>
     <string name="widget_text_wlan">Wi-Fi</string>
     <string name="widget_text_bluetooth">Bluetooth</string>
@@ -670,7 +630,6 @@
     <string name="widget_text_vibration">Вибро</string>
     <string name="widget_text_outdoor">Улица</string>
     <string name="widget_text_power_save">Питание</string>
-    <string name="widget_text_power_super">S-Питание</string>
     <string name="widget_text_standby_mode">Сон</string>
     <string name="widget_text_apn">APN</string>
     <string name="widget_text_custom">Особый</string>
@@ -680,12 +639,4 @@
     <string name="screenshot_area">Кадрировать</string>
     <string name="screenshot_cancel">Отмена</string>
     <string name="screenshot_share">Передать</string>
-    <string name="lenovo_screenshot_cut">Обрезка</string>
-    <string name="data_connection_datach_timeout_error_msg">Сбой разрыва соединения для передачи данных</string>
-    <string name="lenovo_wifi_top_warning_title_text">Центр уведомлений:</string>
-    <string name="lenovo_status_phone_mute">Откл. звук</string>
-    <string name="lenovo_status_phone_speakerphone">Динамик</string>
-    <string name="lenovo_quickpanel_item_edit_label">Изменить</string>
-    <string name="usb_storage_otg_notification_message">Щелкните для отключения.</string>
-    <string name="usb_storage_otg_notification_title">Подключено: OTG-диск</string>
 </resources>

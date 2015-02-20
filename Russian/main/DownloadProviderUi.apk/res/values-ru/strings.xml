@@ -40,13 +40,13 @@
     <string name="menu_download_delete">Массовое удаление</string>
     <string name="download_percent">%d%%</string>
     <string name="dialog_title">Cкачать</string>
-    <string name="paused_dialog_msg">Вы хотите, чтобы приостановить загрузку?</string>
-    <string name="resume_dialog_msg">AВы хотите, чтобы возобновить загрузку?</string>
+    <string name="paused_dialog_msg">Приостановить загрузку?</string>
+    <string name="resume_dialog_msg">Возобновить загрузку?</string>
     <string name="cancel">Отмена</string>
     <string name="ok">OK</string>
     <string name="download_delete_dlg_title">Удалить</string>
     <string name="download_delete_dlg_msg">Удалить выбранное содержимое?</string>
-    <string name="download_clear_dlg_title">Светлый</string>
+    <string name="download_clear_dlg_title">Чисто</string>
     <string name="download_clear_dlg_msg">Удалить все записи о загрузках?</string>
     <string name="download_cancel_dlg_title">Отмена</string>
     <string name="download_cancel_dlg_msg">Все загрузки (%d) будут отменены и удалены из истории.</string>

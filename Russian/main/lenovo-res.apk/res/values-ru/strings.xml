@@ -16,11 +16,12 @@
     <string name="capital_off">ВЫКЛ</string>
     <string name="kg_forgot_password_button_text">Забыли пароль</string>
     <string name="msg_shutdown_habit_guess">В последнее время вы выключали устройство в это время последовательно три раза. Хотите настроить включение и выключение по расписанию? Щелкните \"Отмена\", чтобы выключить питание.</string>
+
     <string name="global_action_reboot">Перезагрузить</string>
     <string name="reboot_confirm_title">Перезагрузить</string>
     <string name="reboot_confirm_msg">Мобильный телефон будет перезагружен.</string>
     <string name="reboot_dialog_msg">Нажмите клавишу питания и удерживайте в течение ^1 с, и мобильный телефон выключится; нажмите клавишу питания и удерживайте в течение 2 с, и мобильный телефон перезагрузится.</string>
-    <string name="reboot_dialog_msg_by_long_press">Нажмите клавишу питания для перезагрузки после ^1 с.</string>
+
     <string name="silent_mode_silent">Без звука</string>
     <string name="silent_mode_vibrate">Вибрация</string>
     <string name="silent_mode_normal">Стандарт</string>

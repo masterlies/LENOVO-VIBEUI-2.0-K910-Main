@@ -24,11 +24,19 @@
     <string name="VideoView_error_text_invalid_progressive_playback">Это видео не предназначено для потокового воспроизведения на данном устройстве.</string>
     <string name="selectTextMode">Выбрать текст</string>
     <string name="status_bar_notification_info_overflow">>999</string>
-    <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
-    <string name="month_day_year" formatted="false">%-e %B %Y г.</string>
-    <string name="time_of_day" formatted="false">%-k:%M:%S</string>
-    <string name="date_and_time" formatted="false">%-k:%M:%S, %d.%m.%Y</string>
     <string name="lock_pattern_view_aspect">square</string>
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="no_ftp_app">Нет приложений с поддержкой FTP</string>
     <string name="still_sleep_title">Спящий режим включен</string>
     <string name="still_sleep_summary">Неподвижный телефон переходит в спящий режим</string>
@@ -42,7 +50,7 @@
     <string name="global_action_silence">Выключение звука</string>
     <string name="global_action_meeting">Вибрация</string>
     <string name="shutdown_alarm_confirm">Будильник зазвонит: %1$s.</string>
-    <string name="startup_confirm_airplane_turn_off">Отключить режим полёта?</string>
+    <string name="startup_confirm_airplane_turn_off">Отключить режим полета?</string>
     <string name="startup_confirm_auto_shutdown">Мобильный телефон будет выключен через %s с.</string>
     <string name="startup_auto_shutdown_title">Автоматическое выключение</string>
     <string name="poweron_nosim">Не удается обнаружить SIM-карту</string>
@@ -194,7 +202,7 @@
     <string name="global_action_toggle_silent_mode">Режим без звука</string>
     <string name="global_action_silent_mode_on_status">Выключить</string>
     <string name="global_action_silent_mode_off_status">Включить</string>
-    <string name="global_actions_toggle_airplane_mode">Режим полёта</string>
+    <string name="global_actions_toggle_airplane_mode">Полёт</string>
     <string name="global_actions_airplane_mode_on_status">Выключить</string>
     <string name="global_actions_airplane_mode_off_status">Включить</string>
     <string name="safeMode">Безопасный режим</string>
@@ -764,6 +772,7 @@
     <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
     <string name="keyguard_password_wrong_pin_code">Неверный PIN-код.</string>
     <string name="pinpuk_attempts">Оставшееся время:</string>
+
     <string name="keyguard_label_text">Для разблокировки нажмите \"Меню\", а затем 0.</string>
     <string name="emergency_call_dialog_number_for_display">Экстренная служба</string>
     <string name="lockscreen_carrier_default">Сеть не найдена</string>
@@ -798,9 +807,11 @@
     <string name="lockscreen_network_locked_message">Сеть заблокирована</string>
     <string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована с помощью кода PUK</string>
     <string name="lockscreen_sim_puk_locked_instructions">Ознакомьтесь с руководством пользователя или свяжитесь со службой поддержки.</string>
+
+
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
-    <string name="lockscreen_airplane_mode_on">Режим полёта</string>
+    <string name="lockscreen_airplane_mode_on">Режим полета</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ. 
 
 Повтор через %d сек."</string>
@@ -884,13 +895,51 @@
     <string name="double_tap_toast">Совет: нажмите дважды, чтобы увеличить и уменьшить масштаб.</string>
     <string name="autofill_this_form">Автозаполнение</string>
     <string name="setup_autofill">Настроить автозаполнение</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="autofill_address_type_same_as_re">как и</string>
     <string name="autofill_address_type_use_my_re">использовать мой</string>
     <string name="autofill_billing_designator_re">счет</string>
     <string name="autofill_shipping_designator_re">отправить</string>
+
+
+
+
+
+
+
+
+
+
+
     <string name="autofill_phone_suffix_re">суффикс</string>
+
+
     <string name="autofill_name_on_card_contextual_re">имя</string>
     <string name="autofill_card_cvc_re">проверка|идентификация карты|cvn|код безопасности|код cvv|cvc</string>
+
+
+
+
+
+
+
+
+
     <string name="autofill_province">Провинция</string>
     <string name="autofill_postal_code">Почтовый индекс</string>
     <string name="autofill_state">Штат</string>
@@ -944,7 +993,7 @@
     <string name="oneMonthDurationPast">1 месяц назад</string>
     <string name="beforeOneMonthDurationPast">Более месяца назад</string>
     <string name="last_month">Прошлый месяц</string>
-    <string name="older">Еще раньше</string>
+    <string name="older">Ещё раньше</string>
     <string name="preposition_for_date">%s</string>
     <string name="preposition_for_time">в %s</string>
     <string name="preposition_for_year">в %s г.</string>
@@ -1291,7 +1340,7 @@
     <string name="data_usage_warning_body">Проверьте трафик и настройки.</string>
     <string name="data_usage_3g_limit_title">Передача данных 2G/3G отключена</string>
     <string name="data_usage_4g_limit_title">Передача данных 4G отключена</string>
-    <string name="data_usage_mobile_limit_title">Мобильный интернет отключен</string>
+    <string name="data_usage_mobile_limit_title">Моб. Интернет отключен</string>
     <string name="data_usage_wifi_limit_title">Передача данных через WLAN отключена</string>
     <string name="data_usage_limit_body">Нажмите, чтобы включить.</string>
     <string name="data_usage_3g_limit_snoozed_title">Превышен лимита трафика 2G и 3G</string>
@@ -1544,6 +1593,7 @@
     <string name="safecenter_warning">Security Problem</string>
     <string name="operator_name_china_mobile">China Mobile</string>
     <string name="operator_name_china_unicom">China Unicom</string>
+
     <string name="webviewchromium_actionbar_share">Отправить</string>
     <string name="webviewchromium_actionbar_web_search">Веб-поиск</string>
     <string name="webviewchromium_accessibility_content_view">Вид в браузере</string>
